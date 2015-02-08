@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alarms>
+    <alarm id="1" name="averiado">
+        <area id="1" tipo="alarm_01_1"/>
+        <area id="3" tipo="alarm_01_3"/>
+    </alarm>
+    <alarm id="2" name="conectado">
+        <area id="1" tipo="alarm_02_1"/>
+        <area id="3" tipo="alarm_01_3"/>
+    </alarm>
+    <alarm id="3" name="conectando">
+        <area id="1" tipo="alarm_03_1"/>
+        <area id="3" tipo="alarm_01_3"/>
+    </alarm>
+    <alarm id="4" name="bomberos">
+        <area id="3" tipo="alarm_02_3"/>
+    </alarm>
+    <alarm id="5" name="fuera de servicio">
+        <area id="1" tipo="alarm_04_1"/>
+    </alarm>
+    <alarm id="6" name="minusválidos">
+    </alarm>
+    <alarm id="7" name="salida">
+        <area id="1" tipo="alarm_05_1"/>
+        <area id="3" tipo="alarm_03_3"/>
+    </alarm>
+    <alarm id="8" name="sobrecarga">
+        <area id="1" tipo="alarm_06_3"/>
+        <area id="3" tipo="alarm_01_4"/>
+    </alarm>
+</alarms>

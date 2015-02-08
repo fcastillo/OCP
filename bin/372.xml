@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding = "UTF-8"?><VERSION nombre="" creado="" ultima_modificacion="" ><PLANTILLA id="0" nombre="orona_default" fuente="Verdana" size="19" color_textos="9944589" color_bordes="9944589" color_fondo="16777215" color_directorio_sup="9944589" color_directorio_inf="6250335" color_directorio_texto="6250335" velocidad="6" pisos_pagina="5"  estilo_directorio="default"  /><SUBIDA>
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,250,251,253,252" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (8).jpg,Imagen Defecto (7).jpg,Imagen Defecto (5).jpg,Imagen Defecto (6).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="-0.008" path="pasafotos_VDAP.swf"/>
+    <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="0.5" color_inferior="6257920" alpha_inferior="1" color_titulos="13434624" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="true" negrita_texto="false" cursiva_titulo="true" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="2" transparencia="1" cY="0.64125" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Mañana" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.29056603773584905" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Pasado" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="YY-MM-DD" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5773584905660377" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.19411764705882353" ancho="0.8488888888888889" tipo="ticker" fuente="Trebuchet MS" size="23" color="0" alineacion="center" negrita="true" cursiva="true" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.3588235294117647" cX="0.013333333333333334" path="ticker.swf"/>
+  </AREA>
+</SUBIDA><BAJADA>
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,250,251,253,252" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (8).jpg,Imagen Defecto (7).jpg,Imagen Defecto (5).jpg,Imagen Defecto (6).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="-0.008" path="pasafotos_VDAP.swf"/>
+    <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="0.5" color_inferior="6257920" alpha_inferior="1" color_titulos="13434624" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="true" negrita_texto="false" cursiva_titulo="true" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="2" transparencia="1" cY="0.64125" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Mañana" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.29056603773584905" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Pasado" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="YY-MM-DD" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5773584905660377" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.19411764705882353" ancho="0.8488888888888889" tipo="ticker" fuente="Trebuchet MS" size="23" color="0" alineacion="center" negrita="true" cursiva="true" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.3588235294117647" cX="0.013333333333333334" path="ticker.swf"/>
+  </AREA>
+</BAJADA><REPOSO>
+<PISO id="0" showPosition="0" nombre="Piso 0" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Mañana" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.29056603773584905" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Pasado" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="YY-MM-DD" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5773584905660377" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.19411764705882353" ancho="0.8488888888888889" tipo="ticker" fuente="Trebuchet MS" size="23" color="0" alineacion="center" negrita="true" cursiva="true" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.3588235294117647" cX="0.013333333333333334" path="ticker.swf"/>
+  </AREA>
+</PISO>
+<PISO id="1" showPosition="1" nombre="Piso 1" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Mañana" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.29056603773584905" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Pasado" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="YY-MM-DD" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5773584905660377" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.19411764705882353" ancho="0.8488888888888889" tipo="ticker" fuente="Trebuchet MS" size="23" color="0" alineacion="center" negrita="true" cursiva="true" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.3588235294117647" cX="0.013333333333333334" path="ticker.swf"/>
+  </AREA>
+</PISO>
+<PISO id="2" showPosition="2" nombre="Piso 2" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Mañana" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.29056603773584905" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Pasado" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="YY-MM-DD" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5773584905660377" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.19411764705882353" ancho="0.8488888888888889" tipo="ticker" fuente="Trebuchet MS" size="23" color="0" alineacion="center" negrita="true" cursiva="true" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.3588235294117647" cX="0.013333333333333334" path="ticker.swf"/>
+  </AREA>
+</PISO>
+<PISO id="3" showPosition="3" nombre="Piso 3" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Mañana" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.29056603773584905" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Pasado" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="YY-MM-DD" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5773584905660377" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.19411764705882353" ancho="0.8488888888888889" tipo="ticker" fuente="Trebuchet MS" size="23" color="0" alineacion="center" negrita="true" cursiva="true" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.3588235294117647" cX="0.013333333333333334" path="ticker.swf"/>
+  </AREA>
+</PISO>
+<PISO id="4" showPosition="4" nombre="Piso 4" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Mañana" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.29056603773584905" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Pasado" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="YY-MM-DD" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5773584905660377" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.19411764705882353" ancho="0.8488888888888889" tipo="ticker" fuente="Trebuchet MS" size="23" color="0" alineacion="center" negrita="true" cursiva="true" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.3588235294117647" cX="0.013333333333333334" path="ticker.swf"/>
+  </AREA>
+</PISO>
+<PISO id="5" showPosition="5" nombre="Piso 5" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Mañana" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.29056603773584905" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Pasado" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="YY-MM-DD" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5773584905660377" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.19411764705882353" ancho="0.8488888888888889" tipo="ticker" fuente="Trebuchet MS" size="23" color="0" alineacion="center" negrita="true" cursiva="true" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.3588235294117647" cX="0.013333333333333334" path="ticker.swf"/>
+  </AREA>
+</PISO>
+<PISO id="6" showPosition="6" nombre="Piso 6" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Mañana" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.29056603773584905" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Pasado" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="YY-MM-DD" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5773584905660377" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.19411764705882353" ancho="0.8488888888888889" tipo="ticker" fuente="Trebuchet MS" size="23" color="0" alineacion="center" negrita="true" cursiva="true" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.3588235294117647" cX="0.013333333333333334" path="ticker.swf"/>
+  </AREA>
+</PISO>
+<PISO id="7" showPosition="7" nombre="Piso 7" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Mañana" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.29056603773584905" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Pasado" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="YY-MM-DD" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5773584905660377" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.19411764705882353" ancho="0.8488888888888889" tipo="ticker" fuente="Trebuchet MS" size="23" color="0" alineacion="center" negrita="true" cursiva="true" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.3588235294117647" cX="0.013333333333333334" path="ticker.swf"/>
+  </AREA>
+</PISO>
+<PISO id="8" showPosition="8" nombre="Piso 8" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Mañana" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.29056603773584905" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Pasado" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="YY-MM-DD" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5773584905660377" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.19411764705882353" ancho="0.8488888888888889" tipo="ticker" fuente="Trebuchet MS" size="23" color="0" alineacion="center" negrita="true" cursiva="true" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.3588235294117647" cX="0.013333333333333334" path="ticker.swf"/>
+  </AREA>
+</PISO>
+<PISO id="9" showPosition="9" nombre="Piso 9" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Mañana" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.29056603773584905" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.3660377358490566" ancho="0.5955555555555555" tipo="tiempo" dia="Pasado" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="YY-MM-DD" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5773584905660377" cX="0.04888888888888889" path="tiempoAS3_horizontal.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.19411764705882353" ancho="0.8488888888888889" tipo="ticker" fuente="Trebuchet MS" size="23" color="0" alineacion="center" negrita="true" cursiva="true" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.3588235294117647" cX="0.013333333333333334" path="ticker.swf"/>
+  </AREA>
+</PISO></REPOSO></VERSION>

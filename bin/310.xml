@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<VERSION nombre="" creado="" ultima_modificacion="" >
+    <PLANTILLA id="0" nombre="orona_default" fuente="Verdana" size="15" color_textos="9944589" color_bordes="9944589" color_fondo="16777215" color_directorio_sup="9944589" color_directorio_inf="6250335" color_directorio_texto="6250335" velocidad="6" pisos_pagina="7" estilo_directorio="neutro" />
+    <SUBIDA>
+        <AREA tipo="1" pathfondo="" ID="">
+            <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+            <ELEMENTO alto="0.2643125" ancho="1" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.3675" cX="0" path="Orona-g3a.10.02.2014.15.36.19_mp4_encoded.mp4"/>
+            <ELEMENTO tipo="texto" alto="0.0625" ancho="1" profundidad="3" transparencia="1" cY="0.9" cX="0">
+               <P ALIGN="center">
+                 <FONT FACE="Impact" SIZE="20" COLOR="#00FF00">SUBIENDO</FONT>
+               </P>
+            </ELEMENTO>
+        </AREA>
+        <AREA tipo="2" pathfondo="">
+            <ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/>
+        </AREA>
+        <AREA tipo="3" pathfondo=""></AREA>
+        <AREA tipo="4" pathfondo=""></AREA>
+    </SUBIDA>
+    <BAJADA>
+        <AREA tipo="1" pathfondo="">
+            <ELEMENTO alto="0.2643125" ancho="1" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.3675" cX="0" path="Orona-g3a.10.02.2014.15.36.19_mp4_encoded.mp4"/>
+            <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+            <ELEMENTO tipo="texto" alto="0.0625" ancho="1" profundidad="3" transparencia="1" cY="0.9" cX="0">
+                   <P ALIGN="center">
+                     <FONT FACE="Impact" SIZE="20" COLOR="#0000FF">BAJANDO</FONT>
+                   </P>
+            </ELEMENTO>
+        </AREA>
+        <AREA tipo="2" pathfondo="">
+            <ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/>
+        </AREA>
+        <AREA tipo="3" pathfondo=""></AREA>
+        <AREA tipo="4" pathfondo=""></AREA>
+    </BAJADA>
+    <REPOSO>
+        <PISO id="0" showPosition="PB" nombre="planta 0" descripcion="descripción de la planta baja" aditional_info="" showDirectory="false" >
+            <AREA tipo="1" pathfondo="img1.jpg" ID="">
+                <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+                <ELEMENTO alto="0.2643125" ancho="1" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.3675" cX="0" path="Orona-g3a.10.02.2014.15.36.19_mp4_encoded.mp4"/>
+            </AREA>
+            <AREA tipo="2" pathfondo="">
+                <ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/>
+            </AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+        <PISO id="1" showPosition="1" nombre="planta 1" descripcion="descripción primera planta" aditional_info="" showDirectory="false" >
+            <AREA tipo="1" pathfondo="" ID="">
+                <ELEMENTO path="ads" tipo="publicidad" bucle="true" profundidad="2" transparencia="1" cY="0" cX="0" alto="0.25" ancho="1" />
+                <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="2" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+                <!--<ELEMENTO alto="0.2643125" ancho="1" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.3675" cX="0" path="Orona-g3a.10.02.2014.15.36.19_mp4_encoded.mp4"/>
+                <ELEMENTO tipo="texto" alto="0.0625" ancho="1" profundidad="3" transparencia="1" cY="0.9" cX="0">
+                   <P ALIGN="left">
+                     <FONT FACE="Impact" SIZE="20" COLOR="#000000">Reaching further together</FONT>
+                   </P>
+                </ELEMENTO>
+                <ELEMENTO alto="0.15" ancho=".3" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="impact" fecha_color="3355443" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="impact" temp_color="3355443" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="4" transparencia="1" cY=".1" cX=".65"/>
+                <ELEMENTO alto="0.3" ancho="0.5" tipo="reloj" tipo_reloj="analogico" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="6250335" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="16711680" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.72625" cX="0.2853333333333333"/>
+                <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="impact" size="30" color="3355443" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="6" transparencia="1" cY="0.585" cX="0.072" />-->
+                <!--<ELEMENTO alto="1" ancho="1" tipo="imagen" ID="1" profundidad="1" transparencia="2" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+                <ELEMENTO alto=".3" ancho="0.8" tipo="pasafotos" url_imagenes="img1.jpg,img2.jpg,img3.jpg,img4.jpg,img5.jpg" tiempo_trans="2000" vel_trans="1" sentido="Vertical" direccion="toUp" efecto="easeInSine" profundidad="2" transparencia="1" cY="0.35625" cX="0.1"/>-->
+                <!--<ELEMENTO alto="0.12" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="39270" alpha_superior="1" color_inferior="39321" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="5" transparencia="1" cY="0.45" cX=""/>-->
+                <!--<ELEMENTO alto=".75" ancho=".8" tipo="menu" estilo="Estilo1" url_fondo="" color_fondo="16555215" hayColorFondo="false" existe_fondo="true"
+                   cabecera_txt="CABECERA"
+                   tituloP_txt="TÍTULO PRINCIPAL&#xA;MENÚ DE FIN DE SEMANA"
+                   titulo1_txt="Entrantes - Título 1"
+                   titulo2_txt="Plato principal - Título 2"
+                   titulo3_txt="Postre - Título 3"
+                   texto1_txt="Plato1&#xA;Plato 2&#xA;Plato 3&#xA;Plato 4&#xA;Plato 5&#xA;Plato 6"
+                   texto2_txt="Plato1&#xA;Plato 2&#xA;Plato 3&#xA;Plato 4&#xA;Plato 5&#xA;Plato 6"
+                   texto3_txt="Plato1&#xA;Plato 2&#xA;Plato 3&#xA;Plato 4&#xA;Plato 5&#xA;Plato 6"
+                   pie_txt="Pié del menú"
+                   cabecera_visible="true" tituloP_visible="true" titulo1_visible="true" titulo2_visible="true" titulo3_visible="true" texto1_visible="true" texto2_visible="true" texto3_visible="true" pie_visible="true"
+                   cabecera_color="0" tituloP_color="3342336" titulo1_color="3342336" titulo2_color="3342336" titulo3_color="3342336" texto1_color="0" texto2_color="0" texto3_color="0" pie_color="0"
+                   cabecera_fuente="TriplexLight" tituloP_fuente="TriplexLight" titulo1_fuente="TriplexLight" titulo2_fuente="TriplexLight" titulo3_fuente="TriplexLight" texto1_fuente="TriplexLight" texto2_fuente="TriplexLight" texto3_fuente="TriplexLight" pie_fuente="TriplexLight"
+                   cabecera_size="12" tituloP_size="26" titulo1_size="20" titulo2_size="20" titulo3_size="20" texto1_size="18" texto2_size="18" texto3_size="18" pie_size="16"
+                   cabecera_align="center" tituloP_align="center" titulo1_align="center" titulo2_align="center" titulo3_align="center" texto1_align="center" texto2_align="center" texto3_align="center" pie_align="center"
+                   cabecera_negrita="false" tituloP_negrita="true" titulo1_negrita="true" titulo2_negrita="true" titulo3_negrita="true" texto1_negrita="false" texto2_negrita="false" texto3_negrita="false" pie_negrita="false"
+                   cabecera_cursiva="false" tituloP_cursiva="false" titulo1_cursiva="false" titulo2_cursiva="false" titulo3_cursiva="false" texto1_cursiva="false" texto2_cursiva="false" texto3_cursiva="false" pie_cursiva="false"
+                   cabecera_subrayado="false" tituloP_subrayado="false" titulo1_subrayado="false" titulo2_subrayado="false" titulo3_subrayado="false" texto1_subrayado="false" texto2_subrayado="false" texto3_subrayado="false" pie_subrayado="false"
+                   cabecera_bullet="false" tituloP_bullet="false" titulo1_bullet="false" titulo2_bullet="false" titulo3_bullet="false" texto1_bullet="false" texto2_bullet="false" texto3_bullet="false" pie_bullet="false"
+                   profundidad="9" transparencia="1" cY=".1" cX=".1"/>-->
+            </AREA>
+            <AREA tipo="2" pathfondo=""></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+        <PISO id="2" showPosition="2" nombre="planta 2" descripcion="Ham hock shoulder rump spare ribs, sausage meatball doner pork chop boudin short loin. Tongue doner ground round corned beef turducken. Ham hock shoulder rump spare ribs, sausage meatball doner pork chop boudin short loin. Tongue doner ground round corned beef turducken. Ham hock shoulder rump spare ribs, sausage meatball doner pork chop boudin short loin. Tongue doner ground round corned beef turducken." aditional_info="" showDirectory="false" >
+           <AREA tipo="1" pathfondo="" ID="">
+               <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+               <!--<ELEMENTO alto="0.2643125" ancho="1" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.3675" cX="0" path="Orona-g3a.10.02.2014.15.36.19_mp4_encoded.mp4"/>-->
+           </AREA>
+           <AREA tipo="2" pathfondo="">
+               <ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/>
+           </AREA>
+           <AREA tipo="3" pathfondo=""></AREA>
+           <AREA tipo="4" pathfondo=""></AREA>
+       </PISO>
+        <PISO id="3" showPosition="3" nombre="tres" descripcion="Bacon ipsum dolor sit amet pork chop swine kielbasa frankfurter. Ham hock shoulder rump spare ribs, sausage meatball doner pork chop boudin short loin. Tongue doner ground round corned beef turducken." aditional_info="" showDirectory="false" >
+           <AREA tipo="1" pathfondo="" ID="">
+               <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+               <ELEMENTO alto="0.2643125" ancho="1" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.3675" cX="0" path="Orona-g3a.10.02.2014.15.36.19_mp4_encoded.mp4"/>
+           </AREA>
+           <AREA tipo="2" pathfondo=""></AREA>
+           <AREA tipo="3" pathfondo=""></AREA>
+           <AREA tipo="4" pathfondo=""></AREA>
+       </PISO>
+        <PISO id="4" showPosition="4" nombre="cuarto" descripcion="Bacon ipsum dolor sit amet pork chop swine kielbasa frankfurter. Ham hock shoulder rump spare ribs, sausage meatball doner pork chop boudin short loin. Tongue doner ground round corned beef turducken. Bacon ipsum dolor sit amet pork chop swine kielbasa frankfurter. Ham hock shoulder rump spare ribs, sausage meatball doner pork chop boudin short loin. Tongue doner ground round corned beef turducken. Bacon ipsum dolor sit amet pork chop swine kielbasa frankfurter. Ham hock shoulder rump spare ribs, sausage meatball doner pork chop boudin short loin. Tongue doner ground round corned beef turducken." aditional_info="" showDirectory="false" >
+           <AREA tipo="1" pathfondo="" ID="">
+               <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+               <ELEMENTO alto="0.2643125" ancho="1" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.3675" cX="0" path="Orona-g3a.10.02.2014.15.36.19_mp4_encoded.mp4"/>
+           </AREA>
+           <AREA tipo="2" pathfondo=""></AREA>
+           <AREA tipo="3" pathfondo=""></AREA>
+           <AREA tipo="4" pathfondo=""></AREA>
+       </PISO>
+        <PISO id="5" showPosition="5" nombre="quinto" descripcion="Bacon ipsum dolor sit amet pork chop swine kielbasa frankfurter. Ham hock shoulder rump spare ribs, sausage meatball doner pork chop boudin short loin. Tongue doner ground round corned beef turducken." aditional_info="" showDirectory="false" >
+           <AREA tipo="1" pathfondo="" ID="">
+               <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+               <ELEMENTO alto="0.2643125" ancho="1" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.3675" cX="0" path="Orona-g3a.10.02.2014.15.36.19_mp4_encoded.mp4"/>
+           </AREA>
+           <AREA tipo="2" pathfondo=""></AREA>
+           <AREA tipo="3" pathfondo=""></AREA>
+           <AREA tipo="4" pathfondo=""></AREA>
+       </PISO>
+        <PISO id="6" showPosition="6" nombre="sexto" descripcion="Bacon ipsum dolor sit amet pork chop swine kielbasa frankfurter. Ham hock shoulder rump spare ribs, sausage meatball doner pork chop boudin short loin. Tongue doner ground round corned beef turducken." aditional_info="" showDirectory="false" >
+           <AREA tipo="1" pathfondo="" ID="">
+               <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+               <ELEMENTO alto="0.2643125" ancho="1" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.3675" cX="0" path="Orona-g3a.10.02.2014.15.36.19_mp4_encoded.mp4"/>
+           </AREA>
+           <AREA tipo="2" pathfondo=""></AREA>
+           <AREA tipo="3" pathfondo=""></AREA>
+           <AREA tipo="4" pathfondo=""></AREA>
+       </PISO>
+        <PISO id="7" showPosition="7" nombre="séptimo" descripcion="Bacon ipsum dolor sit amet pork chop swine kielbasa frankfurter. Ham hock shoulder rump spare ribs, sausage meatball doner pork chop boudin short loin. Tongue doner ground round corned beef turducken." aditional_info="" showDirectory="false" >
+           <AREA tipo="1" pathfondo="" ID="">
+               <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+               <ELEMENTO alto="0.2643125" ancho="1" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.3675" cX="0" path="Orona-g3a.10.02.2014.15.36.19_mp4_encoded.mp4"/>
+           </AREA>
+           <AREA tipo="2" pathfondo=""></AREA>
+           <AREA tipo="3" pathfondo=""></AREA>
+           <AREA tipo="4" pathfondo=""></AREA>
+       </PISO>
+    </REPOSO>
+</VERSION>

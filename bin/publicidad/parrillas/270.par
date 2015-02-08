@@ -1,0 +1,11 @@
+<parrilla_IAE>
+  <nombre val="" />
+  <fecha val="" />
+  <hora val="" />
+  <resolucion ancho="320" alto="240" />
+  <lista>
+    <video nombre="domyos_encoded" hash="5834B5BC33FD76722825074657D7689A2BF54318" EXTENSION="mp4" duracion="31" transicion="0" />
+    <video nombre="hyundai_encoded" hash="486860CD019B759AC81C43C16429299ED024D9B9" EXTENSION="mp4" duracion="22" transicion="0" />
+    <video nombre="9914745D29AEED14B752016A3511E993858BD8F4" hash="C74631E4196A209D5412A57BF26DCF505FEFD3AF" EXTENSION="mp4" duracion="231" transicion="0" />
+  </lista>
+</parrilla_IAE>

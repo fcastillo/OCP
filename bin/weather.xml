@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data timestamp="9406715463">
+	<city id="preview">
+		<day date="30 Jul 2014" low="18" high="22" code="30"/>
+		<day date="31 Jul 2014" low="19" high="25" code="30"/>
+		<day date="1 Aug 2014" low="18" high="23" code="11"/>
+		<day date="2 Aug 2014" low="17" high="23" code="39"/>
+		<day date="3 Aug 2014" low="17" high="24" code="30"/>
+	</city>
+</data>

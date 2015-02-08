@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding = "UTF-8"?><VERSION nombre="" creado="" ultima_modificacion="" ><PLANTILLA id="0" nombre="orona_default" fuente="Verdana" size="19" color_textos="9944589" color_bordes="9944589" color_fondo="16777215" color_directorio_sup="9944589" color_directorio_inf="6250335" color_directorio_texto="6250335" velocidad="6" pisos_pagina="5"  estilo_directorio="default"  /><SUBIDA>
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="video" ID="1" bucle="true" profundidad="1" transparencia="1" cY="0" cX="0" path="SUBIENDO COMP f7.12.06.2014.11.31.00_wmv_encoded.mp4"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></SUBIDA><BAJADA>
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="video" ID="1" bucle="true" profundidad="1" transparencia="1" cY="0" cX="0" path="BAJANDO COMP f7.12.06.2014.11.18.53_wmv_encoded.mp4"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></BAJADA><REPOSO>
+<PISO id="0" showPosition="0" nombre="Piso 0" descripcion="\n" aditional_info="" showDirectory="false" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="20" velocidad="100" titulo_activo="true" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="1" transparencia="1" cY="0.145" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO tipo="texto" alto="0.1025" ancho="0.5333333333333333" profundidad="2" transparencia="1" cY="0.03625" cX="0.08266666666666667" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">vel: 50%</FONT>
+      </P>
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">times 18</FONT>
+      </P>
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">dur: 20seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="10" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="3" transparencia="1" cY="0.3175" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="4" transparencia="1" cY="0.2475" cX="0.048" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">dur: 10seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="20" velocidad="100" titulo_activo="false" velocidad_titulo="2" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="5" transparencia="1" cY="0.5725" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO tipo="texto" alto="0.0825" ancho="0.5333333333333333" profundidad="6" transparencia="1" cY="0.47875" cX="0.048" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">vel:100%</FONT>
+      </P>
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">dur:20seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO alto="0.08625" ancho="0.808" tipo="rss" estilo="estilo3" tiempo_transicion="5" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="9944589" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="7" transparencia="1" cY="0.7125" cX="0.04533333333333334" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.06375" ancho="0.8533333333333334" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="9944589" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="39219" color_textos="16777215" fuente_titulos="Microsoft Sans Serif" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="8" transparencia="1" cY="0.87125" cX="0.050666666666666665" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="9" transparencia="1" cY="0.81875" cX="0.056" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">Comic Sans</FONT>
+      </P>
+    </ELEMENTO>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="">
+    <ELEMENTO path="ads" tipo="publicidad" bucle="true" profundidad="2" transparencia="1" cY="0" cX="0" alto="1" ancho="1" />
+</AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO>
+<PISO id="1" showPosition="1" nombre="Piso 1" descripcion="\n" aditional_info="" showDirectory="false" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="16711935" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="65280" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="17" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="true" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="1" transparencia="1" cY="0.0875" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.05625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Verdana" fuente_textos="Arial" size_titulos="16" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="2" transparencia="1" cY="0.89875" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.05125" ancho="0.9173333333333333" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="9944589" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777164" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="17" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="true" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="3" transparencia="1" cY="0.82" cX="0.05333333333333334" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="10" velocidad="100" titulo_activo="true" velocidad_titulo="22" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="4" transparencia="1" cY="0.40625" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="5" transparencia="1" cY="0.36125" cX="0.06666666666666667" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">Vel: 0%</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="6" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="6" transparencia="1" cY="0.62125" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="7" transparencia="1" cY="0.56875" cX="0.05333333333333334" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">vel: 80%</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="10" profundidad="8" transparencia="1" cY="0.24375" cX="0.11733333333333333" path="ticker.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO>
+<PISO id="2" showPosition="2" nombre="Piso 2" descripcion="\n" aditional_info="" showDirectory="false" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="20" velocidad="100" titulo_activo="true" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="1" transparencia="1" cY="0.145" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO tipo="texto" alto="0.1025" ancho="0.5333333333333333" profundidad="2" transparencia="1" cY="0.03625" cX="0.08266666666666667" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">vel: 50%</FONT>
+      </P>
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">times 18</FONT>
+      </P>
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">dur: 20seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="10" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="3" transparencia="1" cY="0.3175" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="4" transparencia="1" cY="0.2475" cX="0.048" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">dur: 10seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="20" velocidad="100" titulo_activo="false" velocidad_titulo="2" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="5" transparencia="1" cY="0.5725" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO tipo="texto" alto="0.0825" ancho="0.5333333333333333" profundidad="6" transparencia="1" cY="0.47875" cX="0.048" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">vel:100%</FONT>
+      </P>
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">dur:20seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO alto="0.08625" ancho="0.808" tipo="rss" estilo="estilo3" tiempo_transicion="5" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="9944589" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="7" transparencia="1" cY="0.7125" cX="0.04533333333333334" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.06375" ancho="0.8533333333333334" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="9944589" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="39219" color_textos="16777215" fuente_titulos="Microsoft Sans Serif" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="8" transparencia="1" cY="0.87125" cX="0.050666666666666665" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="9" transparencia="1" cY="0.81875" cX="0.056" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">Comic Sans</FONT>
+      </P>
+    </ELEMENTO>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="">
+    <ELEMENTO cY="0" cX="0" alto="1" ancho="1" tipo="pasafotos" ID="" url_imagenes="img1.jpg,img2.jpg,img3.jpg,img4.jpg" tiempo_trans="2000" vel_trans="1" sentido="Vertical" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" path="pasafotos_VDAP.swf"/>
+</AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO>
+<PISO id="3" showPosition="3" nombre="Piso 3" descripcion="\n" aditional_info="" showDirectory="false" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="0" ancho="0.5333333333333333" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="1" transparencia="1" cY="0.10125" cX="0.06666666666666667" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="true" velocidad_titulo="22" imagen_visible="true" color_superior="9944589" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="2" transparencia="1" cY="0.0625" cX="0.056" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="true" velocidad_titulo="20" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="3" transparencia="1" cY="0.1325" cX="0.058666666666666666" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="true" velocidad_titulo="18" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="4" transparencia="1" cY="0.20375" cX="0.056" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="true" velocidad_titulo="16" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="5" transparencia="1" cY="0.2775" cX="0.056" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="true" velocidad_titulo="14" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="6" transparencia="1" cY="0.35" cX="0.056" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="true" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="7" transparencia="1" cY="0.4225" cX="0.05333333333333334" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="true" velocidad_titulo="10" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="8" transparencia="1" cY="0.495" cX="0.050666666666666665" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="true" velocidad_titulo="8" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="9" transparencia="1" cY="0.56875" cX="0.050666666666666665" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="true" velocidad_titulo="6" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="10" transparencia="1" cY="0.645" cX="0.05333333333333334" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="true" velocidad_titulo="4" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="11" transparencia="1" cY="0.72125" cX="0.05333333333333334" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="true" velocidad_titulo="2" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="12" transparencia="1" cY="0.79625" cX="0.06133333333333333" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="13" transparencia="1" cY="0.90625" cX="0.12" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">Validación Velocidad Scroll</FONT>
+      </P>
+    </ELEMENTO>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO>
+<PISO id="4" showPosition="4" nombre="Piso 4" descripcion="\n" aditional_info="" showDirectory="false" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="0" ancho="0.5333333333333333" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="1" transparencia="1" cY="0.10125" cX="0.06666666666666667" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="5" velocidad="100" titulo_activo="true" velocidad_titulo="12" imagen_visible="true" color_superior="9944589" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="2" transparencia="1" cY="0.0625" cX="0.056" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="10" velocidad="100" titulo_activo="true" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="3" transparencia="1" cY="0.1325" cX="0.056" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="12" velocidad="100" titulo_activo="true" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="4" transparencia="1" cY="0.20375" cX="0.056" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="14" velocidad="100" titulo_activo="true" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="5" transparencia="1" cY="0.2775" cX="0.056" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="16" velocidad="100" titulo_activo="true" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="6" transparencia="1" cY="0.35" cX="0.056" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="18" velocidad="100" titulo_activo="true" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="7" transparencia="1" cY="0.4225" cX="0.05333333333333334" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="20" velocidad="100" titulo_activo="true" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="8" transparencia="1" cY="0.495" cX="0.050666666666666665" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="22" velocidad="100" titulo_activo="true" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="9" transparencia="1" cY="0.56875" cX="0.050666666666666665" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="24" velocidad="100" titulo_activo="true" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="10" transparencia="1" cY="0.645" cX="0.05333333333333334" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.07125" ancho="0.6666666666666666" tipo="rss" estilo="estilo3" tiempo_transicion="26" velocidad="100" titulo_activo="true" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="11" transparencia="1" cY="0.72125" cX="0.05333333333333334" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO tipo="texto" alto="0.09625" ancho="0.816" profundidad="12" transparencia="1" cY="0.90375" cX="0.12" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Comic Sans" SIZE="19" COLOR="#000000">
+          <B>Validación Velocidad Transición</B>
+        </FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.04625" ancho="0.11733333333333333" profundidad="13" transparencia="1" cY="0.07875" cX="0.784" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">5 seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.03375" ancho="0.17866666666666667" profundidad="14" transparencia="1" cY="0.15375" cX="0.784" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">10 seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.18133333333333335" profundidad="15" transparencia="1" cY="0.22125" cX="0.784" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">12 seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0375" ancho="0.19466666666666665" profundidad="16" transparencia="1" cY="0.29125" cX="0.784" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">14 seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.17333333333333334" profundidad="17" transparencia="1" cY="0.365" cX="0.776" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">16 seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.20533333333333334" profundidad="18" transparencia="1" cY="0.43625" cX="0.7706666666666667" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">18 seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.168" profundidad="19" transparencia="1" cY="0.51" cX="0.7706666666666667" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">20 seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0575" ancho="0.17866666666666667" profundidad="20" transparencia="1" cY="0.58125" cX="0.7653333333333333" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">22 seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.03875" ancho="0.2" profundidad="21" transparencia="1" cY="0.66375" cX="0.7653333333333333" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">24 seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0525" ancho="0.168" profundidad="22" transparencia="1" cY="0.73625" cX="0.768" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">26 seg</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO alto="0.04875" ancho="0.5493333333333333" tipo="ticker" fuente="Comic Sans" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="23" transparencia="1" cY="0.81875" cX="0.104" path="ticker.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO></REPOSO></VERSION>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding = "UTF-8"?><VERSION nombre="" creado="" ultima_modificacion="" >
+    <PLANTILLA id="0" nombre="orona_default" fuente="Verdana" size="19" color_textos="9944589" color_bordes="9944589" color_fondo="16777215" color_directorio_sup="9944589" color_directorio_inf="6250335" color_directorio_texto="6250335" velocidad="6" pisos_pagina="5"  estilo_directorio="default"  />
+    <SUBIDA>
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="0.26375" ancho="1" tipo="video" ID="1" bucle="true" profundidad="1" transparencia="1" cY="0.14625" cX="0" path="Orona-g3a.10.02.2014.15.36.19_mp4_encoded.mp4"/>
+    <ELEMENTO alto="0.2625" ancho="0.9973333333333333" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.55" cX="0" path="Mantenimiento_encoded.mp4"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA>
+    </SUBIDA>
+    <BAJADA>
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="0.26375" ancho="1" tipo="video" ID="1" bucle="true" profundidad="1" transparencia="1" cY="0.14625" cX="0" path="Orona-g3a.10.02.2014.15.36.19_mp4_encoded.mp4"/>
+        <ELEMENTO alto="0.2625" ancho="0.9973333333333333" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.55" cX="0" path="Mantenimiento_encoded.mp4"/>
+  </AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA>
+    </BAJADA>
+    <REPOSO>
+<PISO id="0" showPosition="" nombre="Piso 0" descripcion="Descripción de planta baja para probar despliegue de directorio en parte baja de pantalla\n" aditional_info="" showDirectory="true" >
+    <AREA tipo="1" pathfondo="Imagen Defecto (2).jpg" ID="256">
+        <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="6710886" alpha_superior="1" color_inferior="0" alpha_inferior="1" color_titulos="16777215" color_textos="10206326" fuente_titulos="Times New Roman" fuente_textos="Trebuchet MS" size_titulos="18" size_textos="10" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://www.comunicacionbancopopular.es/feed/" profundidad="1" transparencia="1" cY="0.815" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+    </AREA>
+    <AREA tipo="2" pathfondo="">
+        <ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/>
+    </AREA>
+    <AREA tipo="3" pathfondo=""></AREA>
+    <AREA tipo="4" pathfondo="" ID="">
+        <ELEMENTO alto="0.5823529411764706" ancho="0.7555555555555555" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.19411764705882353" cX="0.10666666666666667" path="logo.jpg"/>
+    </AREA>
+</PISO>
+<PISO id="1" showPosition="" nombre="Piso 1" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,249" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (10).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.5823529411764706" ancho="0.7555555555555555" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.19411764705882353" cX="0.10666666666666667" path="logo.jpg"/>
+  </AREA>
+</PISO>
+<PISO id="2" showPosition="" nombre="Piso 2" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,249" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (10).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.5823529411764706" ancho="0.7555555555555555" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.19411764705882353" cX="0.10666666666666667" path="logo.jpg"/>
+  </AREA>
+</PISO>
+<PISO id="3" showPosition="" nombre="Piso 3" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,249" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (10).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.5823529411764706" ancho="0.7555555555555555" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.19411764705882353" cX="0.10666666666666667" path="logo.jpg"/>
+  </AREA>
+</PISO>
+<PISO id="4" showPosition="" nombre="Piso 4" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,249" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (10).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.5823529411764706" ancho="0.7555555555555555" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.19411764705882353" cX="0.10666666666666667" path="logo.jpg"/>
+  </AREA>
+</PISO>
+<PISO id="5" showPosition="" nombre="Piso 5" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,249" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (10).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.5823529411764706" ancho="0.7555555555555555" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.19411764705882353" cX="0.10666666666666667" path="logo.jpg"/>
+  </AREA>
+</PISO></REPOSO></VERSION>

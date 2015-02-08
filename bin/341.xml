@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding = "UTF-8"?><VERSION nombre="" creado="" ultima_modificacion="" ><PLANTILLA id="0" nombre="orona_default" fuente="Verdana" size="19" color_textos="9944589" color_bordes="9944589" color_fondo="16777215" color_directorio_sup="9944589" color_directorio_inf="6250335" color_directorio_texto="6250335" velocidad="6" pisos_pagina="5"  estilo_directorio="default"  /><SUBIDA>
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></SUBIDA><BAJADA>
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></BAJADA><REPOSO>
+<PISO id="0" showPosition="" nombre="piso 0" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO tipo="texto" alto="0.0825" ancho="0.5333333333333333" profundidad="1" transparencia="1" cY="0.1325" cX="0.248" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">Textos para area 1.</FONT>
+      </P>
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">Cambio de colores</FONT>
+      </P>
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">y formatos</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="2" transparencia="1" cY="0.23" cX="0.23466666666666666" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#009900">
+          <I>verde cursiva arial</I>
+        </FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="3" transparencia="1" cY="0.2775" cX="0.232" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial Black" SIZE="16" COLOR="#990000">rojo  arial black</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="4" transparencia="1" cY="0.32625" cX="0.232" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Comic Sans" SIZE="16" COLOR="#0033FF">comic sans azul</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0691875" ancho="0.7466666666666667" profundidad="5" transparencia="1" cY="0.3625" cX="0.22933333333333333" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Courier" SIZE="16" COLOR="#CC6600">
+          <U>courier subrayado naranja</U>
+        </FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="6" transparencia="1" cY="0.40625" cX="0.23733333333333334" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Courier New" SIZE="16" COLOR="#000000">Courier new</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="7" transparencia="1" cY="0.4375" cX="0.24" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Georgia" SIZE="16" COLOR="#000000">Georgia</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="8" transparencia="1" cY="0.4775" cX="0.23733333333333334" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Impact" SIZE="16" COLOR="#000000">Impact</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="9" transparencia="1" cY="0.5175" cX="0.22933333333333333" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">Lucida console</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="10" transparencia="1" cY="0.55125" cX="0.22666666666666666" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">Lucida Sans</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="11" transparencia="1" cY="0.5925" cX="0.21333333333333335" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Microsoft Sans Serif" SIZE="16" COLOR="#000000">Microsoft sans serif</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="12" transparencia="1" cY="0.6325" cX="0.224" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Modern" SIZE="16" COLOR="#000000">Modern</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="13" transparencia="1" cY="0.6725" cX="0.21066666666666667" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Symbol" SIZE="16" COLOR="#000000">Symbol</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="14" transparencia="1" cY="0.715" cX="0.21066666666666667" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">Tahoma</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="15" transparencia="1" cY="0.75375" cX="0.21333333333333335" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Times New Roman" SIZE="16" COLOR="#000000">Times new roman</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="16" transparencia="1" cY="0.80125" cX="0.21066666666666667" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Trebuchet MS" SIZE="16" COLOR="#000000">Trebuchet ms</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="17" transparencia="1" cY="0.8525" cX="0.20533333333333334" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Verdana" SIZE="16" COLOR="#000000">verdana</FONT>
+      </P>
+    </ELEMENTO>
+    <ELEMENTO tipo="texto" alto="0.0625" ancho="0.5333333333333333" profundidad="18" transparencia="1" cY="0.92125" cX="0.18133333333333335" path="ninguno">
+      <P ALIGN="CENTER">
+        <FONT FACE="Arial" SIZE="16" COLOR="#000000">tienen que verse 16 tipos de letra</FONT>
+      </P>
+    </ELEMENTO>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO>
+<PISO id="1" showPosition="" nombre="piso 1" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="0.22" ancho="0.3973333333333333" tipo="imagen" ID="1" profundidad="2" transparencia="1" cY="0.00625" cX="0.584" path="orona_alta_color_212x124_VDAP.jpg"/>
+    <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="2" profundidad="1" transparencia="1" cY="0" cX="0" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+    <ELEMENTO alto="0.27" ancho="1.008" tipo="imagen" ID="3" profundidad="3" transparencia="1" cY="0.3275" cX="0" path="Torre Aundi.PNG"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO>
+<PISO id="2" showPosition="" nombre="piso 2" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="0.26375" ancho="1" tipo="video" ID="1" bucle="true" profundidad="1" transparencia="1" cY="0.14625" cX="0" path="Orona-g3a.10.02.2014.15.36.19_mp4_encoded.mp4"/>
+    <ELEMENTO alto="0.2625" ancho="0.9973333333333333" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.55" cX="0" path="Mantenimiento_encoded.mp4"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO>
+<PISO id="3" showPosition="" nombre="piso 3" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="0.225" ancho="0.3466666666666667" tipo="tiempo" dia="Hoy" ciudad="SPXX0026" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0.05125" cX="0.336" path="tiempoAS3_vertical.swf"/>
+    <ELEMENTO alto="0.225" ancho="0.3466666666666667" tipo="tiempo" dia="Mañana" ciudad="SPXX0026" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.2775" cX="0.3333333333333333" path="tiempoAS3_vertical.swf"/>
+    <ELEMENTO alto="0.225" ancho="0.3466666666666667" tipo="tiempo" dia="Pasado" ciudad="SPXX0026" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5025" cX="0.32" path="tiempoAS3_vertical.swf"/>
+    <ELEMENTO alto="0.225" ancho="0.3466666666666667" tipo="tiempo" dia="Siguiente" ciudad="SPXX0026" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="4" transparencia="1" cY="0.73125" cX="0.31733333333333336" path="tiempoAS3_vertical.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO>
+<PISO id="4" showPosition="" nombre="piso 4" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="5" velocidad="100" titulo_activo="true" velocidad_titulo="22" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Modern" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="1" transparencia="1" cY="0.12" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="5" velocidad="100" titulo_activo="true" velocidad_titulo="2" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Georgia" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="2" transparencia="1" cY="0.3025" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="5" velocidad="100" titulo_activo="true" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Arial" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="3" transparencia="1" cY="0.46875" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.10625" ancho="1" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="13421568" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="4" transparencia="1" cY="0.6325" cX="0" path="controlRSS_estilo3Player_v2.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO>
+<PISO id="5" showPosition="" nombre="piso 5" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <!--<ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.15125" cX="0.24" path="ticker.swf"/>
+    <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="2" transparencia="1" cY="0.2875" cX="0.24266666666666667" path="ticker.swf"/>-->
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO>
+<PISO id="6" showPosition="" nombre="piso 6" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,249" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (10).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO>
+<PISO id="7" showPosition="" nombre="piso 7" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1" tipo="menu" estilo="Estilo3" url_fondo="" color_fondo="16777215" hayColorFondo="false" existe_fondo="true" cabecera_txt="prueba&#xD;&#xD;&#xD;" tituloP_txt="titulo prueba" titulo1_txt="entrantes" titulo2_txt="principal" titulo3_txt="postre" texto1_txt="Plato1&#xA;Plato 2&#xA;Plato 3&#xA;Plato 4&#xA;Plato 5&#xA;Plato 6" texto2_txt="Plato1&#xA;Plato 2&#xA;Plato 3&#xA;Plato 4&#xA;Plato 5&#xA;Plato 6" texto3_txt="Plato1&#xA;Plato 2&#xA;Plato 3&#xA;Plato 4&#xA;Plato 5&#xA;Plato 6" pie_txt="PIE" cabecera_visible="true" tituloP_visible="true" titulo1_visible="true" titulo2_visible="true" titulo3_visible="true" texto1_visible="true" texto2_visible="true" texto3_visible="true" pie_visible="true" cabecera_color="0" tituloP_color="13056" titulo1_color="13056" titulo2_color="13056" titulo3_color="13056" texto1_color="0" texto2_color="0" texto3_color="0" pie_color="0" cabecera_fuente="Triplex" tituloP_fuente="Triplex" titulo1_fuente="Triplex" titulo2_fuente="Triplex" titulo3_fuente="Triplex" texto1_fuente="Triplex" texto2_fuente="Triplex" texto3_fuente="Triplex" pie_fuente="Triplex" cabecera_size="16" tituloP_size="26" titulo1_size="20" titulo2_size="20" titulo3_size="20" texto1_size="18" texto2_size="18" texto3_size="18" pie_size="16" cabecera_align="right" tituloP_align="center" titulo1_align="center" titulo2_align="center" titulo3_align="center" texto1_align="center" texto2_align="center" texto3_align="center" pie_align="right" cabecera_negrita="false" tituloP_negrita="true" titulo1_negrita="true" titulo2_negrita="true" titulo3_negrita="true" texto1_negrita="false" texto2_negrita="false" texto3_negrita="false" pie_negrita="false" cabecera_cursiva="false" tituloP_cursiva="false" titulo1_cursiva="false" titulo2_cursiva="false" titulo3_cursiva="false" texto1_cursiva="false" texto2_cursiva="false" texto3_cursiva="false" pie_cursiva="false" cabecera_subrayado="false" tituloP_subrayado="false" titulo1_subrayado="false" titulo2_subrayado="false" titulo3_subrayado="false" texto1_subrayado="false" texto2_subrayado="false" texto3_subrayado="false" pie_subrayado="false" cabecera_bullet="false" tituloP_bullet="false" titulo1_bullet="false" titulo2_bullet="false" titulo3_bullet="false" texto1_bullet="false" texto2_bullet="false" texto3_bullet="false" pie_bullet="false" profundidad="1" transparencia="1" cY="0" cX="0" path="control_menu.swf"/>
+    <ELEMENTO alto="0.10125" ancho="0.216" tipo="reloj" tipo_reloj="analog" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="0" alpha_numeros="1" color_mes="13421772" color_dia="13421772" color_numDia="10066329" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="2" transparencia="1" cY="0.0375" cX="0.06133333333333333" path="reloj_analog_v2.swf"/>
+    <ELEMENTO alto="0.035" ancho="0.23733333333333334" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="0" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="16777215" alpha_numeros="1" color_mes="13421772" color_dia="13421772" color_numDia="10066329" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="3" transparencia="1" cY="0.0675" cX="0.31733333333333336" path="reloj_digital_v2.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO></REPOSO></VERSION>

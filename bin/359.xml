@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding = "UTF-8"?><VERSION nombre="" creado="" ultima_modificacion="" >
+    <PLANTILLA id="0" nombre="orona_default" fuente="Verdana" size="19" color_textos="9944589" color_bordes="9944589" color_fondo="16777215" color_directorio_sup="9944589" color_directorio_inf="6250335" color_directorio_texto="0" velocidad="6" pisos_pagina="5"  estilo_directorio="default"  />
+    <SUBIDA>
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></SUBIDA><BAJADA>
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></BAJADA><REPOSO>
+<PISO id="0" showPosition="" nombre="0" descripcion="\n" aditional_info="" showDirectory="false" >
+<AREA tipo="1" pathfondo="" ID="">
+    <!--<ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,250,251,253,255,256" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (8).jpg,Imagen Defecto (7).jpg,Imagen Defecto (5).jpg,Imagen Defecto (3).jpg,Imagen Defecto (2).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>-->
+    <!--<ELEMENTO alto="0.1025" ancho="0.9626666666666667" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="12632256" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="3355443" color_textos="16777215" fuente_titulos="Modern" fuente_textos="Arial" size_titulos="17" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="true" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://www.rtve.es/rss/temas_mundo.xml" profundidad="2" transparencia="1" cY="0.82625" cX="0.024" path="controlRSS_estilo3Player_v2.swf"/>-->
+    <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="3" transparencia="1" cY="0.3725" cX="0.24533333333333332" path="ticker.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.939622641509434" ancho="0.9377777777777778" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.06037735849056604" cX="0.06222222222222222" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <!--<ELEMENTO alto="0.36470588235294116" ancho="0.8622222222222222" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.08888888888888889" path="reloj_digital_v2.swf"/>-->
+  </AREA>
+</PISO>
+<PISO id="1" showPosition="1" nombre="1" descripcion="Planta caballeros" aditional_info="additional info" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <!--<ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,250,251,253,255,256" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (8).jpg,Imagen Defecto (7).jpg,Imagen Defecto (5).jpg,Imagen Defecto (3).jpg,Imagen Defecto (2).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>-->
+    <!--<ELEMENTO alto="0.1025" ancho="0.9626666666666667" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="12632256" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="3355443" color_textos="16777215" fuente_titulos="Modern" fuente_textos="Arial" size_titulos="17" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="true" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://www.rtve.es/rss/temas_mundo.xml" profundidad="2" transparencia="1" cY="0.82625" cX="0.024" path="controlRSS_estilo3Player_v2.swf"/>-->
+    <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="3" transparencia="1" cY="0.3725" cX="0.24533333333333332" path="ticker.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.939622641509434" ancho="0.9377777777777778" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.06037735849056604" cX="0.06222222222222222" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36470588235294116" ancho="0.8622222222222222" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.08888888888888889" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO>
+<PISO id="2" showPosition="" nombre="2" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,250,251,253,255,256" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (8).jpg,Imagen Defecto (7).jpg,Imagen Defecto (5).jpg,Imagen Defecto (3).jpg,Imagen Defecto (2).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+    <ELEMENTO alto="0.1025" ancho="0.9626666666666667" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="12632256" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="3355443" color_textos="16777215" fuente_titulos="Modern" fuente_textos="Arial" size_titulos="17" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="true" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://www.rtve.es/rss/temas_mundo.xml" profundidad="2" transparencia="1" cY="0.82625" cX="0.024" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="3" transparencia="1" cY="0.3725" cX="0.24533333333333332" path="ticker.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.939622641509434" ancho="0.9377777777777778" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.06037735849056604" cX="0.06222222222222222" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36470588235294116" ancho="0.8622222222222222" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.08888888888888889" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO>
+<PISO id="3" showPosition="" nombre="3" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,250,251,253,255,256" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (8).jpg,Imagen Defecto (7).jpg,Imagen Defecto (5).jpg,Imagen Defecto (3).jpg,Imagen Defecto (2).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+    <ELEMENTO alto="0.1025" ancho="0.9626666666666667" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="12632256" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="3355443" color_textos="16777215" fuente_titulos="Modern" fuente_textos="Arial" size_titulos="17" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="true" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://www.rtve.es/rss/temas_mundo.xml" profundidad="2" transparencia="1" cY="0.82625" cX="0.024" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="3" transparencia="1" cY="0.3725" cX="0.24533333333333332" path="ticker.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.939622641509434" ancho="0.9377777777777778" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.06037735849056604" cX="0.06222222222222222" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36470588235294116" ancho="0.8622222222222222" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.08888888888888889" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO>
+<PISO id="4" showPosition="" nombre="4" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,250,251,253,255,256" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (8).jpg,Imagen Defecto (7).jpg,Imagen Defecto (5).jpg,Imagen Defecto (3).jpg,Imagen Defecto (2).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+    <ELEMENTO alto="0.1025" ancho="0.9626666666666667" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="12632256" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="3355443" color_textos="16777215" fuente_titulos="Modern" fuente_textos="Arial" size_titulos="17" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="true" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://www.rtve.es/rss/temas_mundo.xml" profundidad="2" transparencia="1" cY="0.82625" cX="0.024" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="3" transparencia="1" cY="0.3725" cX="0.24533333333333332" path="ticker.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.939622641509434" ancho="0.9377777777777778" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.06037735849056604" cX="0.06222222222222222" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36470588235294116" ancho="0.8622222222222222" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.08888888888888889" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO>
+<PISO id="5" showPosition="" nombre="5" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,250,251,253,255,256" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (8).jpg,Imagen Defecto (7).jpg,Imagen Defecto (5).jpg,Imagen Defecto (3).jpg,Imagen Defecto (2).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+    <ELEMENTO alto="0.1025" ancho="0.9626666666666667" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="12632256" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="3355443" color_textos="16777215" fuente_titulos="Modern" fuente_textos="Arial" size_titulos="17" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="true" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://www.rtve.es/rss/temas_mundo.xml" profundidad="2" transparencia="1" cY="0.82625" cX="0.024" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="3" transparencia="1" cY="0.3725" cX="0.24533333333333332" path="ticker.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.939622641509434" ancho="0.9377777777777778" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.06037735849056604" cX="0.06222222222222222" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36470588235294116" ancho="0.8622222222222222" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.08888888888888889" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO>
+<PISO id="6" showPosition="" nombre="6" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,250,251,253,255,256" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (8).jpg,Imagen Defecto (7).jpg,Imagen Defecto (5).jpg,Imagen Defecto (3).jpg,Imagen Defecto (2).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+    <ELEMENTO alto="0.1025" ancho="0.9626666666666667" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="12632256" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="3355443" color_textos="16777215" fuente_titulos="Modern" fuente_textos="Arial" size_titulos="17" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="true" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://www.rtve.es/rss/temas_mundo.xml" profundidad="2" transparencia="1" cY="0.82625" cX="0.024" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="3" transparencia="1" cY="0.3725" cX="0.24533333333333332" path="ticker.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.939622641509434" ancho="0.9377777777777778" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.06037735849056604" cX="0.06222222222222222" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36470588235294116" ancho="0.8622222222222222" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.08888888888888889" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO>
+<PISO id="7" showPosition="" nombre="7" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,250,251,253,255,256" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (8).jpg,Imagen Defecto (7).jpg,Imagen Defecto (5).jpg,Imagen Defecto (3).jpg,Imagen Defecto (2).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+    <ELEMENTO alto="0.1025" ancho="0.9626666666666667" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="12632256" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="3355443" color_textos="16777215" fuente_titulos="Modern" fuente_textos="Arial" size_titulos="17" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="true" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://www.rtve.es/rss/temas_mundo.xml" profundidad="2" transparencia="1" cY="0.82625" cX="0.024" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="3" transparencia="1" cY="0.3725" cX="0.24533333333333332" path="ticker.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.939622641509434" ancho="0.9377777777777778" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.06037735849056604" cX="0.06222222222222222" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36470588235294116" ancho="0.8622222222222222" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.08888888888888889" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO>
+<PISO id="8" showPosition="" nombre="8" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,250,251,253,255,256" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (8).jpg,Imagen Defecto (7).jpg,Imagen Defecto (5).jpg,Imagen Defecto (3).jpg,Imagen Defecto (2).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+    <ELEMENTO alto="0.1025" ancho="0.9626666666666667" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="12632256" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="3355443" color_textos="16777215" fuente_titulos="Modern" fuente_textos="Arial" size_titulos="17" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="true" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://www.rtve.es/rss/temas_mundo.xml" profundidad="2" transparencia="1" cY="0.82625" cX="0.024" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="3" transparencia="1" cY="0.3725" cX="0.24533333333333332" path="ticker.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.939622641509434" ancho="0.9377777777777778" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.06037735849056604" cX="0.06222222222222222" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36470588235294116" ancho="0.8622222222222222" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.08888888888888889" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO>
+<PISO id="9" showPosition="" nombre="9" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,248,250,251,253,255,256" url_imagenes="Imagen Defecto (1).jpg,Imagen Defecto (9).jpg,Imagen Defecto (8).jpg,Imagen Defecto (7).jpg,Imagen Defecto (5).jpg,Imagen Defecto (3).jpg,Imagen Defecto (2).jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+    <ELEMENTO alto="0.1025" ancho="0.9626666666666667" tipo="rss" estilo="estilo3" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="12632256" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="3355443" color_textos="16777215" fuente_titulos="Modern" fuente_textos="Arial" size_titulos="17" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="true" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://www.rtve.es/rss/temas_mundo.xml" profundidad="2" transparencia="1" cY="0.82625" cX="0.024" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="3" transparencia="1" cY="0.3725" cX="0.24533333333333332" path="ticker.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.939622641509434" ancho="0.9377777777777778" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.06037735849056604" cX="0.06222222222222222" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36470588235294116" ancho="0.8622222222222222" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.08888888888888889" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO></REPOSO></VERSION>

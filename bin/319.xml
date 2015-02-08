@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<VERSION nombre="" creado="" ultima_modificacion="" >
+    <PLANTILLA id="0" nombre="orona_default" fuente="Verdana" size="19" color_textos="9944589" color_bordes="9944589" color_fondo="16777215" color_directorio_sup="9944589" color_directorio_inf="6250335" color_directorio_texto="6250335" velocidad="6" pisos_pagina="5"  estilo_directorio="informal"  />
+    <SUBIDA>
+        <AREA tipo="1" pathfondo="" ID="256"></AREA>
+        <AREA tipo="2" pathfondo=""></AREA>
+        <AREA tipo="3" pathfondo="" ID=""></AREA>
+        <AREA tipo="4" pathfondo="" ID=""></AREA>
+    </SUBIDA>
+
+<BAJADA>
+    <AREA tipo="1" pathfondo="img10.jpg" ID="256">
+        <ELEMENTO alto="0.142375" ancho="1" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.71875" cX="0" path="ORONA IDEO logo.PNG"/>
+        <ELEMENTO alto="0.2643125" ancho="1" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.4025" cX="0" path="time_lapse_galarreta.19.07.2013.09.21.38_encoded.mp4"/>
+      </AREA>
+    <AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+    <AREA tipo="3" pathfondo="" ID="">
+        <!--<ELEMENTO alto="0.6490566037735849" ancho="0.7644444444444445" tipo="reloj" tipo_reloj="analog" color_agujas="39219" alpha_agujas="1" color_marcas="26112" alpha_marcas="1" color_sombra="52224" alpha_sombra="0.28" color_fondo="10092441" alpha_fondo="1" color_marco="13056" alpha_marco="1" color_remarco="39168" alpha_remarco="0.28" color_numeros="13056" alpha_numeros="1" color_mes="13421772" color_dia="13421772" color_numDia="10066329" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.16981132075471697" cX="0.1288888888888889" path="reloj_analog_v2.swf"/>-->
+      </AREA>
+    <AREA tipo="4" pathfondo="" ID="">
+        <ELEMENTO tipo="texto" alto="0.45382352941176474" ancho="1" profundidad="1" transparencia="1" cY="0.29411764705882354" cX="0.022222222222222223" path="ninguno">
+          <P ALIGN="LEFT">
+            <FONT FACE="Comic Sans MS" SIZE="16" COLOR="#000000">
+              Contenido
+              <FONT COLOR="#00CC33">para</FONT>
+              area
+              <FONT COLOR="#990066">4</FONT>
+              con diferentes
+              <FONT FACE="Symbol">tipografías</FONT>
+              y colores
+            </FONT>
+          </P>
+        </ELEMENTO>
+      </AREA>
+</BAJADA>
+<REPOSO>
+<PISO id="0" showPosition="0" nombre="planta baja" descripcion="Descripción planta baja\n" aditional_info="En esta planta encontrarás todo tipo de artículos para la pesca y la caza del halcón mañanero de Tegucigalpa." showDirectory="true" >
+<AREA tipo="1" pathfondo="img10.jpg" ID="256">
+    <!--<ELEMENTO alto="0.142375" ancho="1" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.71875" cX="0" path="ORONA IDEO logo.PNG"/>
+    <ELEMENTO alto="0.2643125" ancho="1" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.4025" cX="0" path="time_lapse_galarreta.19.07.2013.09.21.38_encoded.mp4"/>-->
+    <ELEMENTO alto="0.1025" ancho="0.9653333333333334" tipo="rss" estilo="estilo1" tiempo_transicion="15" velocidad="10" titulo_activo="true" velocidad_titulo="12" imagen_visible="true" color_superior="26367" alpha_superior="1" color_inferior="13882323" alpha_inferior="1" color_titulos="16777215" color_textos="26367" fuente_titulos="Arial" fuente_textos="Verdana" size_titulos="20" size_textos="15" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://ep00.epimg.net/rss/tags/ultimas_noticias.xml" profundidad="2" transparencia="1" cY="0.5" cX="0.013333333333333334"/>
+    <!--<ELEMENTO path="ads" tipo="publicidad" bucle="true" profundidad="2" transparencia="1" cY="0" cX="0" alto="0.25" ancho="1" />-->
+  </AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <!--<ELEMENTO alto="0.6490566037735849" ancho="0.7644444444444445" tipo="reloj" tipo_reloj="analog" color_agujas="39219" alpha_agujas="1" color_marcas="26112" alpha_marcas="1" color_sombra="52224" alpha_sombra="0.28" color_fondo="10092441" alpha_fondo="1" color_marco="13056" alpha_marco="1" color_remarco="39168" alpha_remarco="0.28" color_numeros="13056" alpha_numeros="1" color_mes="13421772" color_dia="13421772" color_numDia="10066329" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.16981132075471697" cX="0.1288888888888889" path="reloj_analog_v2.swf"/>-->
+    <ELEMENTO alto="0.3" ancho=".8" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="0" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="16711680" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0.5" cX="0"/>
+  </AREA>
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO tipo="texto" alto="0.45382352941176474" ancho="1" profundidad="1" transparencia="1" cY="0.29411764705882354" cX="0.022222222222222223" path="ninguno">
+      <P ALIGN="LEFT">
+        <FONT FACE="Impact" SIZE="16" COLOR="#000000">
+          Contenido
+          <FONT COLOR="#00CC33">para</FONT>
+          area
+          <FONT COLOR="#990066">4</FONT>
+          con diferentes
+          <FONT FACE="Impact">tipografías</FONT>
+          y colores
+        </FONT>
+      </P>
+    </ELEMENTO>
+  </AREA>
+</PISO>
+<PISO id="1" showPosition="1" nombre="primera planta" descripcion="descripción primera planta\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="img10.jpg" ID="256">
+    <ELEMENTO alto="0.142375" ancho="1" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.71875" cX="0" path="ORONA IDEO logo.PNG"/>
+    <ELEMENTO alto="0.2643125" ancho="1" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.4025" cX="0" path="time_lapse_galarreta.19.07.2013.09.21.38_encoded.mp4"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.6490566037735849" ancho="0.7644444444444445" tipo="reloj" tipo_reloj="analog" color_agujas="39219" alpha_agujas="1" color_marcas="26112" alpha_marcas="1" color_sombra="52224" alpha_sombra="0.28" color_fondo="10092441" alpha_fondo="1" color_marco="13056" alpha_marco="1" color_remarco="39168" alpha_remarco="0.28" color_numeros="13056" alpha_numeros="1" color_mes="13421772" color_dia="13421772" color_numDia="10066329" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.16981132075471697" cX="0.1288888888888889" path="reloj_analog_v2.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1" tipo="pasafotos" ID="272,273,304" url_imagenes="Torre Aundi.PNG,Orona verde.PNG,Ciudad de ORONA.jpg" tiempo_trans="5000" vel_trans="1" sentido="Ninguno" direccion="toUp" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+  </AREA>
+</PISO>
+<PISO id="2" showPosition="2" nombre="segunda planta" descripcion="Descripción segunda planta\n" aditional_info="" showDirectory="false" >
+<AREA tipo="1" pathfondo="img10.jpg" ID="256">
+    <ELEMENTO alto="0.142375" ancho="1" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0.71875" cX="0" path="ORONA IDEO logo.PNG"/>
+    <ELEMENTO alto="0.2643125" ancho="1" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.4025" cX="0" path="time_lapse_galarreta.19.07.2013.09.21.38_encoded.mp4"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.6490566037735849" ancho="0.7644444444444445" tipo="reloj" tipo_reloj="analog" color_agujas="13209" alpha_agujas="1" color_marcas="13311" alpha_marcas="1" color_sombra="153" alpha_sombra="0.28" color_fondo="39423" alpha_fondo="1" color_marco="102" alpha_marco="1" color_remarco="13209" alpha_remarco="0.28" color_numeros="102" alpha_numeros="1" color_mes="13421772" color_dia="13421772" color_numDia="10066329" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.16981132075471697" cX="0.1288888888888889" path="reloj_analog_v2.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo=""></AREA>
+</PISO>
+<PISO id="3" showPosition="3" nombre="tercera planta" descripcion="Descripción tercera planta\n" aditional_info="Planta caballeros\nArtesanía de México\nAperos de labranza" showDirectory="true" >
+    <AREA tipo="1" pathfondo="" ID="">
+        <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.03375" cX="0.22666666666666666" path="ticker.swf"/>
+        <ELEMENTO alto="0.251375" ancho="0.92" tipo="imagen" ID="2" profundidad="2" transparencia="1" cY="0.71125" cX="0.06133333333333333" path="orona_baja_color.jpg"/>
+        <ELEMENTO alto="0.26368749999999996" ancho="1" tipo="video" ID="3" bucle="true" profundidad="3" transparencia="1" cY="0.1075" cX="0" path="time_lapse_galarreta_encoded.mp4"/>
+        <ELEMENTO alto="0.2643125" ancho="1" tipo="video" ID="4" bucle="true" profundidad="4" transparencia="1" cY="0.41125" cX="0" path="Orona-g3a.10.02.2014.15.36.19_mp4_encoded.mp4"/>
+      </AREA>
+    <AREA tipo="2" pathfondo="">
+        <ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/>
+    </AREA>
+    <AREA tipo="3" pathfondo="" ID="">
+        <ELEMENTO alto="0.6490566037735849" ancho="0.7644444444444445" tipo="reloj" tipo_reloj="analog" color_agujas="13209" alpha_agujas="1" color_marcas="13311" alpha_marcas="1" color_sombra="153" alpha_sombra="0.28" color_fondo="39423" alpha_fondo="1" color_marco="102" alpha_marco="1" color_remarco="13209" alpha_remarco="0.28" color_numeros="102" alpha_numeros="1" color_mes="13421772" color_dia="13421772" color_numDia="10066329" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.16981132075471697" cX="0.1288888888888889" path="reloj_analog_v2.swf"/>
+      </AREA>
+    <AREA tipo="4" pathfondo="" ID="">
+        <ELEMENTO tipo="texto" alto="0.45382352941176474" ancho="1" profundidad="1" transparencia="1" cY="0.29411764705882354" cX="0.022222222222222223" path="ninguno">
+          <P ALIGN="LEFT">
+            <FONT FACE="Comic Sans MS" SIZE="16" COLOR="#000000">
+              Contenido
+              <FONT COLOR="#00CC33">para</FONT>
+              area
+              <FONT COLOR="#990066">4</FONT>
+              con diferentes
+              <FONT FACE="Symbol">tipografías</FONT>
+              y colores
+            </FONT>
+          </P>
+        </ELEMENTO>
+      </AREA>
+</PISO>
+    <PISO id="4" showPosition="4" nombre="planta 4" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="false" >
+            <AREA tipo="1" pathfondo="" ID="">
+                <ELEMENTO alto="0.251375" ancho="0.92" tipo="imagen" ID="2" profundidad="2" transparencia="1" cY="0.71125" cX="0.06133333333333333" path="orona_baja_color.jpg"/>
+                <ELEMENTO alto="0.225" ancho="0.3466666666666667" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0.1275" cX="0.04" path="tiempoAS3_vertical.swf"/>
+                <ELEMENTO alto="0.225" ancho="0.3466666666666667" tipo="tiempo" dia="Mañana" ciudad="SPXX0191" pais="España" estilo="simple" posicion_textos="Arriba" fecha_formato="YY-MM-DD" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.09625" cX="0.6533333333333333" path="tiempoAS3_vertical.swf"/>
+                <ELEMENTO alto="0.1625" ancho="0.48" tipo="tiempo" dia="Pasado" ciudad="SPXX0191" pais="España" estilo="clasico" posicion_textos="Derecha" fecha_formato="MM-DD-YY" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.17875" cX="0.296" path="tiempoAS3_horizontal.swf"/>
+            </AREA>
+            <AREA tipo="2" pathfondo=""></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+        <PISO id="5" showPosition="5" nombre="planta 5" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID="">
+                <ELEMENTO alto="1" ancho="1" tipo="menu" estilo="Estilo2" url_fondo="" color_fondo="16777215" hayColorFondo="false" existe_fondo="true" cabecera_txt="Menú especial&#xD;&#xD;&#xD;" tituloP_txt="ORONA" titulo1_txt="Entrantes" titulo2_txt="Principal" titulo3_txt="Postre" texto1_txt="Melón con jamón&#xD;Caldo&#xD;Ensalada templada" texto2_txt="Cordero&#xD;Lubina&#xD;Callos" texto3_txt="Natillas&#xD;Helado&#xD;Arroz con leche" pie_txt="" cabecera_visible="true" tituloP_visible="true" titulo1_visible="true" titulo2_visible="true" titulo3_visible="true" texto1_visible="true" texto2_visible="true" texto3_visible="true" pie_visible="true" cabecera_color="0" tituloP_color="0" titulo1_color="0" titulo2_color="0" titulo3_color="0" texto1_color="6710886" texto2_color="6710886" texto3_color="6710886" pie_color="0" cabecera_fuente="Times New Roman" tituloP_fuente="Arial" titulo1_fuente="Arial" titulo2_fuente="Arial" titulo3_fuente="Arial" texto1_fuente="Arial" texto2_fuente="Arial" texto3_fuente="Arial" pie_fuente="Times New Roman" cabecera_size="16" tituloP_size="30" titulo1_size="18" titulo2_size="18" titulo3_size="18" texto1_size="18" texto2_size="18" texto3_size="18" pie_size="16" cabecera_align="center" tituloP_align="center" titulo1_align="center" titulo2_align="center" titulo3_align="center" texto1_align="center" texto2_align="center" texto3_align="center" pie_align="center" cabecera_negrita="false" tituloP_negrita="false" titulo1_negrita="true" titulo2_negrita="true" titulo3_negrita="true" texto1_negrita="false" texto2_negrita="false" texto3_negrita="false" pie_negrita="false" cabecera_cursiva="false" tituloP_cursiva="false" titulo1_cursiva="true" titulo2_cursiva="true" titulo3_cursiva="true" texto1_cursiva="true" texto2_cursiva="true" texto3_cursiva="true" pie_cursiva="false" cabecera_subrayado="false" tituloP_subrayado="false" titulo1_subrayado="true" titulo2_subrayado="true" titulo3_subrayado="true" texto1_subrayado="false" texto2_subrayado="false" texto3_subrayado="false" pie_subrayado="false" cabecera_bullet="false" tituloP_bullet="false" titulo1_bullet="false" titulo2_bullet="false" titulo3_bullet="false" texto1_bullet="false" texto2_bullet="false" texto3_bullet="false" pie_bullet="false" profundidad="1" transparencia="1" cY="0" cX="0" path="control_menu.swf"/>
+            </AREA>
+            <AREA tipo="2" pathfondo=""></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+        <PISO id="6" showPosition="6" nombre="planta 6" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID=""></AREA>
+            <AREA tipo="2" pathfondo=""></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+    <PISO id="7" showPosition="7" nombre="planta 7" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                <AREA tipo="1" pathfondo="" ID=""></AREA>
+                <AREA tipo="2" pathfondo=""></AREA>
+                <AREA tipo="3" pathfondo=""></AREA>
+                <AREA tipo="4" pathfondo=""></AREA>
+            </PISO>
+    <PISO id="8" showPosition="8" nombre="planta 8" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                <AREA tipo="1" pathfondo="" ID=""></AREA>
+                <AREA tipo="2" pathfondo=""></AREA>
+                <AREA tipo="3" pathfondo=""></AREA>
+                <AREA tipo="4" pathfondo=""></AREA>
+            </PISO>
+    <PISO id="9" showPosition="9" nombre="planta 9" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                <AREA tipo="1" pathfondo="" ID=""></AREA>
+                <AREA tipo="2" pathfondo=""></AREA>
+                <AREA tipo="3" pathfondo=""></AREA>
+                <AREA tipo="4" pathfondo=""></AREA>
+            </PISO>
+    <PISO id="10" showPosition="10" nombre="planta_10" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                <AREA tipo="1" pathfondo="" ID=""></AREA>
+                <AREA tipo="2" pathfondo=""></AREA>
+                <AREA tipo="3" pathfondo=""></AREA>
+                <AREA tipo="4" pathfondo=""></AREA>
+            </PISO>
+    <PISO id="11" showPosition="11" nombre="planta 11" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                <AREA tipo="1" pathfondo="" ID=""></AREA>
+                <AREA tipo="2" pathfondo=""></AREA>
+                <AREA tipo="3" pathfondo=""></AREA>
+                <AREA tipo="4" pathfondo=""></AREA>
+            </PISO>
+    <PISO id="12" showPosition="12" nombre="planta 12" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                <AREA tipo="1" pathfondo="" ID=""></AREA>
+                <AREA tipo="2" pathfondo=""></AREA>
+                <AREA tipo="3" pathfondo=""></AREA>
+                <AREA tipo="4" pathfondo=""></AREA>
+            </PISO>
+    <PISO id="13" showPosition="13" nombre="planta 13" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                <AREA tipo="1" pathfondo="" ID=""></AREA>
+                <AREA tipo="2" pathfondo=""></AREA>
+                <AREA tipo="3" pathfondo=""></AREA>
+                <AREA tipo="4" pathfondo=""></AREA>
+            </PISO>
+    <PISO id="14" showPosition="14" nombre="planta 14" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                <AREA tipo="1" pathfondo="" ID=""></AREA>
+                <AREA tipo="2" pathfondo=""></AREA>
+                <AREA tipo="3" pathfondo=""></AREA>
+                <AREA tipo="4" pathfondo=""></AREA>
+            </PISO>
+    <PISO id="15" showPosition="15" nombre="planta 15" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                <AREA tipo="1" pathfondo="" ID=""></AREA>
+                <AREA tipo="2" pathfondo=""></AREA>
+                <AREA tipo="3" pathfondo=""></AREA>
+                <AREA tipo="4" pathfondo=""></AREA>
+            </PISO>
+
+</REPOSO>
+</VERSION>

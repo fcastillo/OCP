@@ -1,0 +1,12 @@
+<CONFIG>
+	<OCP ID="29"/>
+	<PLAYER_LOG FILE="player.log"/>
+	<VERSION FILE="372.xml"/>
+	<PUBLI FILE="270.par" HORA="00:00:00"/>
+	<DPE_STATS FILE="./stats"/>
+	<API AP="1043"/> 
+	<DATOS RUTA="."/>
+	<TICKER URL="http://www.innovaevision.es/desarrollo/orona/backend/api/xmlrpc/obtenertickericp.php?icp=" INTERVAL="1"/>
+	<RSS URL="http://www.innovaevision.es/desarrollo/orona/backend/api/xmlrpc/RSS_Cargar.php"/>
+	<PLAY_MODE val="1"/>
+</CONFIG>

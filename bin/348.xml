@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<VERSION nombre="" creado="" ultima_modificacion="" >
+    <PLANTILLA id="0" nombre="orona_default" fuente="Verdana" size="19" color_textos="9944589" color_bordes="9944589" color_fondo="16777215" color_directorio_sup="9944589" color_directorio_inf="6250335" color_directorio_texto="6250335" velocidad="6" pisos_pagina="5"  estilo_directorio="default"  />
+    <SUBIDA>
+<AREA tipo="1" pathfondo="img1.jpg" ID="247"/>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA>
+    </SUBIDA>
+    <BAJADA>
+<AREA tipo="1" pathfondo="img1.jpg" ID="247"/>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA>
+    </BAJADA>
+    <REPOSO>
+        <PISO id="0" showPosition="1" nombre="Piso 1" descripcion="\n" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="img1.jpg" ID="247"/>
+            <AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+        <PISO id="1" showPosition="2" nombre="Piso 2" descripcion="\n" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="img1.jpg" ID="247"/>
+            <AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+        <PISO id="2" showPosition="3" nombre="Piso 3" descripcion="\n" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="img1.jpg" ID="247"/>
+            <AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+        <PISO id="3" showPosition="4" nombre="Piso 4" descripcion="\n" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="img1.jpg" ID="247"/>
+            <AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+        <PISO id="4" showPosition="5" nombre="Piso 5" descripcion="\n" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="img1.jpg" ID="247"/>
+            <AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+    </REPOSO>
+</VERSION>

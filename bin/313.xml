@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VERSION nombre="" creado="" ultima_modificacion="" >
+    <PLANTILLA id="0" nombre="orona_default" fuente="Verdana" size="19" color_textos="9944589" color_bordes="9944589" color_fondo="16777215" color_directorio_sup="9944589" color_directorio_inf="6250335" color_directorio_texto="6250335" velocidad="10" pisos_pagina="3" estilo_directorio="default" />
+    <SUBIDA>
+        <AREA tipo="1" pathfondo="" ID="">
+            <!--<ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>-->
+        </AREA>
+        <AREA tipo="2" pathfondo="">
+        </AREA>
+        <AREA tipo="3" pathfondo="">
+        </AREA>
+        <AREA tipo="4" pathfondo="">
+        </AREA>
+    </SUBIDA>
+    <BAJADA>
+        <AREA tipo="1" pathfondo="">
+           <!-- <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>-->
+        </AREA>
+        <AREA tipo="2" pathfondo="">
+        </AREA>
+        <AREA tipo="3" pathfondo="">
+        </AREA>
+        <AREA tipo="4" pathfondo="">
+        </AREA>
+    </BAJADA>
+    <REPOSO>
+        <PISO id="0" showPosition="0" nombre="bajo" descripcion="dfasd fasas dfas fasdfsa  dfasd fasas dfas fasdfsa  dfasd fasas dfas fasdfsa  dfasd fasas dfas fasdfsa fsa df saf sad fas fsa fsa fsa fsa f asfsa ffasdf sfsafsadfsfsfsafsfsaf dfasd fasas dfas fasdfsa fsa df saf sad fas fsa fsa fsa fsa f asfsa ffasdf sfsafsadfsfsfsafsfsaf" aditional_info="dfasd fasas dfas fasdfsa fsa df saf sad fas fsa fsa fsa fsa f asfsa ffasdf sfsafsadfsfsfsafsfsaf dfasd fasas dfas fasdfsa fsa df saf sad fas fsa fsa fsa fsa f asfsa ffasdf sfsafsadfsfsfsafsfsaf" showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID="">
+                <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+            </AREA>
+            <AREA tipo="2" pathfondo="">
+            </AREA>
+            <AREA tipo="3" pathfondo="">
+                <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+            </AREA>
+            <AREA tipo="4" pathfondo="">
+                <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+            </AREA>
+        </PISO>
+        <PISO id="1" showPosition="1" nombre="primero" descripcion="Planta caballeros\nDeportes\nZapatería\nCamping\nJardín" aditional_info="Bacon ipsum dolor sit amet beef sausage kevin prosciutto, shank fatback pork loin hamburger. T-bone hamburger tri-tip filet mignon pork belly, turkey prosciutto ham hock fatback ball tip pastrami porchetta. Sirloin kevin sausage, hamburger t-bone meatball short ribs strip steak. Short loin ground round spare ribs boudin. Sirloin kevin sausage, hamburger t-bone meatball short ribs strip steak. Short loin ground round spare ribs boudin. Sirloin kevin sausage, hamburger t-bone meatball short ribs strip steak. Short loin ground round spare ribs boudin. Sirloin kevin sausage, hamburger t-bone meatball short ribs strip steak. Short loin ground round spare ribs boudin. Sirloin kevin sausage, hamburger t-bone meatball short ribs strip steak. Short loin ground round spare ribs boudin." showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID="">
+                <ELEMENTO alto="1" ancho="0.576" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+                <ELEMENTO alto="0.225" ancho="0.3466666666666667" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0.1275" cX="0.04" path="tiempoAS3_vertical.swf"/>
+                <ELEMENTO alto="0.225" ancho="0.3466666666666667" tipo="tiempo" dia="Mañana" ciudad="SPXX0191" pais="España" estilo="simple" posicion_textos="Arriba" fecha_formato="YY-MM-DD" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.2" cX="0.6533333333333333" path="tiempoAS3_vertical.swf"/>
+                <ELEMENTO alto="0.1625" ancho="0.48" tipo="tiempo" dia="Pasado" ciudad="SPXX0191" pais="España" estilo="clasico" posicion_textos="Derecha" fecha_formato="MM-DD-YY" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5" cX="0.296" path="tiempoAS3_horizontal.swf"/>
+            </AREA>
+            <AREA tipo="2" pathfondo="">
+            </AREA>
+            <AREA tipo="3" pathfondo="">
+            </AREA>
+            <AREA tipo="4" pathfondo="">
+            </AREA>
+        </PISO>
+        <PISO id="2" showPosition="2" nombre="segundo" descripcion="Moda y Complementos\nModa y Complementos\nModa y Complementos\nModa y Complementos\nModa y Complementos\nModa y Complementos\nModa y Complementos\n" aditional_info="Bacon ipsum dolor sit amet flank kielbasa short ribs jerky porchetta landjaeger beef filet mignon pastrami brisket fatback pancetta meatloaf swine." showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID="">
+                <ELEMENTO ancho="0.576"  alto="1" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0.0026666666666666666" path="BAJANDO_ECOVERDE_01_color2.jpg"/>
+            </AREA>
+            <AREA tipo="2" pathfondo="">
+            </AREA>
+            <AREA tipo="3" pathfondo="">
+                <ELEMENTO alto="0.3" ancho="0.5" tipo="reloj" tipo_reloj="analogico" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="6250335" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="16711680" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.35" cX="0.2853333333333333"/>
+            </AREA>
+            <AREA tipo="4" pathfondo="">
+                <ELEMENTO path="ads" tipo="publicidad" bucle="true" profundidad="2" transparencia="1" cY="0" cX="0" alto="1" ancho="1" />
+            </AREA>
+        </PISO>
+        <PISO id="3" showPosition="3" nombre="planta 3" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                            <AREA tipo="1" pathfondo="" ID=""></AREA>
+                            <AREA tipo="2" pathfondo=""></AREA>
+                            <AREA tipo="3" pathfondo=""></AREA>
+                            <AREA tipo="4" pathfondo=""></AREA>
+                        </PISO>
+
+        <PISO id="4" showPosition="4" nombre="planta 4" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                            <AREA tipo="1" pathfondo="" ID=""></AREA>
+                            <AREA tipo="2" pathfondo=""></AREA>
+                            <AREA tipo="3" pathfondo=""></AREA>
+                            <AREA tipo="4" pathfondo=""></AREA>
+                        </PISO>
+        <PISO id="5" showPosition="5" nombre="planta 5" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                            <AREA tipo="1" pathfondo="" ID=""></AREA>
+                            <AREA tipo="2" pathfondo=""></AREA>
+                            <AREA tipo="3" pathfondo=""></AREA>
+                            <AREA tipo="4" pathfondo=""></AREA>
+                        </PISO>
+        <PISO id="6" showPosition="6" nombre="planta 6" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                    <AREA tipo="1" pathfondo="" ID=""></AREA>
+                    <AREA tipo="2" pathfondo=""></AREA>
+                    <AREA tipo="3" pathfondo=""></AREA>
+                    <AREA tipo="4" pathfondo=""></AREA>
+                </PISO>
+            <PISO id="7" showPosition="7" nombre="planta 7" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                        <AREA tipo="1" pathfondo="" ID=""></AREA>
+                        <AREA tipo="2" pathfondo=""></AREA>
+                        <AREA tipo="3" pathfondo=""></AREA>
+                        <AREA tipo="4" pathfondo=""></AREA>
+                    </PISO>
+            <PISO id="8" showPosition="8" nombre="planta 8" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                        <AREA tipo="1" pathfondo="" ID=""></AREA>
+                        <AREA tipo="2" pathfondo=""></AREA>
+                        <AREA tipo="3" pathfondo=""></AREA>
+                        <AREA tipo="4" pathfondo=""></AREA>
+                    </PISO>
+            <PISO id="9" showPosition="9" nombre="planta 9" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                        <AREA tipo="1" pathfondo="" ID=""></AREA>
+                        <AREA tipo="2" pathfondo=""></AREA>
+                        <AREA tipo="3" pathfondo=""></AREA>
+                        <AREA tipo="4" pathfondo=""></AREA>
+                    </PISO>
+            <PISO id="10" showPosition="10" nombre="planta_10" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                        <AREA tipo="1" pathfondo="" ID=""></AREA>
+                        <AREA tipo="2" pathfondo=""></AREA>
+                        <AREA tipo="3" pathfondo=""></AREA>
+                        <AREA tipo="4" pathfondo=""></AREA>
+                    </PISO>
+            <PISO id="11" showPosition="11" nombre="planta 11" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                        <AREA tipo="1" pathfondo="" ID=""></AREA>
+                        <AREA tipo="2" pathfondo=""></AREA>
+                        <AREA tipo="3" pathfondo=""></AREA>
+                        <AREA tipo="4" pathfondo=""></AREA>
+                    </PISO>
+            <PISO id="12" showPosition="12" nombre="planta 12" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                        <AREA tipo="1" pathfondo="" ID=""></AREA>
+                        <AREA tipo="2" pathfondo=""></AREA>
+                        <AREA tipo="3" pathfondo=""></AREA>
+                        <AREA tipo="4" pathfondo=""></AREA>
+                    </PISO>
+            <PISO id="13" showPosition="13" nombre="planta 13" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                        <AREA tipo="1" pathfondo="" ID=""></AREA>
+                        <AREA tipo="2" pathfondo=""></AREA>
+                        <AREA tipo="3" pathfondo=""></AREA>
+                        <AREA tipo="4" pathfondo=""></AREA>
+                    </PISO>
+            <PISO id="14" showPosition="14" nombre="planta 14" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                        <AREA tipo="1" pathfondo="" ID=""></AREA>
+                        <AREA tipo="2" pathfondo=""></AREA>
+                        <AREA tipo="3" pathfondo=""></AREA>
+                        <AREA tipo="4" pathfondo=""></AREA>
+                    </PISO>
+            <PISO id="15" showPosition="15" nombre="planta 15" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+                        <AREA tipo="1" pathfondo="" ID=""></AREA>
+                        <AREA tipo="2" pathfondo=""></AREA>
+                        <AREA tipo="3" pathfondo=""></AREA>
+                        <AREA tipo="4" pathfondo=""></AREA>
+                    </PISO>
+    </REPOSO>
+</VERSION>

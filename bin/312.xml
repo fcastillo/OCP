@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VERSION nombre="" creado="" ultima_modificacion="" >
+    <PLANTILLA id="0" nombre="orona_default" fuente="Verdana" size="19" color_textos="9944589" color_bordes="9944589" color_fondo="16777215" color_directorio_sup="9944589" color_directorio_inf="6250335" color_directorio_texto="16711680" velocidad="6" pisos_pagina="10" estilo_directorio="default" />
+    <SUBIDA>
+        <AREA tipo="1" pathfondo="" ID="">
+        </AREA>
+        <AREA tipo="2" pathfondo="">
+        </AREA>
+        <AREA tipo="3" pathfondo="">
+        </AREA>
+        <AREA tipo="4" pathfondo="">
+        </AREA>
+    </SUBIDA>
+
+    <BAJADA>
+        <AREA tipo="1" pathfondo="">
+        </AREA>
+        <AREA tipo="2" pathfondo="">
+        </AREA>
+        <AREA tipo="3" pathfondo="">
+        </AREA>
+        <AREA tipo="4" pathfondo="">
+        </AREA>
+    </BAJADA>
+
+    <REPOSO>
+        <PISO id="0" showPosition="0" nombre="bajo" descripcion="Planta baja\nCaballeros\nMascotas\nPeluquería" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID="">
+                <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="impact" size="30" color="3355443" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="6" transparencia="1" cY="0.585" cX="0.072" />
+            </AREA>
+            <AREA tipo="2" pathfondo="">
+            </AREA>
+            <AREA tipo="3" pathfondo="">
+            </AREA>
+            <AREA tipo="4" pathfondo="">
+            </AREA>
+        </PISO>
+        <PISO id="1" showPosition="1" nombre="primero" descripcion="Zapatería\n" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID="">
+                <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="impact" size="30" color="3355443" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="6" transparencia="1" cY="0.585" cX="0.072" />
+            </AREA>
+            <AREA tipo="2" pathfondo="">
+            </AREA>
+            <AREA tipo="3" pathfondo="">
+            </AREA>
+            <AREA tipo="4" pathfondo="">
+            </AREA>
+        </PISO>
+        <PISO id="2" showPosition="2" nombre="segundo" descripcion="Planta Deportes\nPlanta Deportes\nPlanta Deportes\nPlanta Deportes\nPlanta Deportes\nPlanta Deportes\nPlanta Deportes\nPlanta Deportes\nPlanta Deportes\n" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID="">
+                <ELEMENTO cY="0" cX="0" alto="0.4" ancho="0.25" tipo="pasafotos" ID="" url_imagenes="img1.jpg,img2.jpg,img3.jpg,img4.jpg" tiempo_trans="2000" vel_trans="1" sentido="Vertical" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" path="pasafotos_VDAP.swf"/>
+                <ELEMENTO alto="0.2" ancho="0.7" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="16777164" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="16711680" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0.5" cX="0"/>
+                <ELEMENTO alto=".75" ancho="1" tipo="menu" estilo="Estilo1" url_fondo="" color_fondo="16555215" hayColorFondo="true" existe_fondo="true" cabecera_txt="MENÚ DEL DÍA - CASA IÑAKI" tituloP_txt="TÍTULO PRINCIPAL&#xA;MENÚ FIN DE SEMANA" titulo1_txt="Entrantes - Título 1" titulo2_txt="Plato principal - Título 2" titulo3_txt="Postre - Título 3" texto1_txt="Plato 1&#xA;Plato 2&#xA;Plato 3&#xA;Plato 4&#xA;Plato 5&#xA;Plato 6" texto2_txt="Plato 1&#xA;Plato 2&#xA;Plato 3&#xA;Plato 4&#xA;Plato 5&#xA;Plato 6" texto3_txt="Plato 1&#xA;Plato 2&#xA;Plato 3&#xA;Plato 4&#xA;Plato 5&#xA;Plato 6" pie_txt="Abierto en Marzo" cabecera_visible="true" tituloP_visible="true" titulo1_visible="true" titulo2_visible="true" titulo3_visible="true" texto1_visible="true" texto2_visible="true" texto3_visible="true" pie_visible="true" cabecera_color="0" tituloP_color="3342336" titulo1_color="3342336" titulo2_color="3342336" titulo3_color="3342336" texto1_color="0" texto2_color="0" texto3_color="0" pie_color="0" cabecera_fuente="TriplexLight" tituloP_fuente="TriplexLight" titulo1_fuente="TriplexLight" titulo2_fuente="TriplexLight" titulo3_fuente="TriplexLight" texto1_fuente="TriplexLight" texto2_fuente="TriplexLight" texto3_fuente="TriplexLight" pie_fuente="TriplexLight" cabecera_size="16" tituloP_size="26" titulo1_size="20" titulo2_size="20" titulo3_size="20" texto1_size="18" texto2_size="18" texto3_size="18" pie_size="16" cabecera_align="center" tituloP_align="center" titulo1_align="center" titulo2_align="center" titulo3_align="center" texto1_align="center" texto2_align="center" texto3_align="center" pie_align="right" cabecera_negrita="false" tituloP_negrita="true" titulo1_negrita="true" titulo2_negrita="true" titulo3_negrita="true" texto1_negrita="false" texto2_negrita="false" texto3_negrita="false" pie_negrita="false" cabecera_cursiva="false" tituloP_cursiva="false" titulo1_cursiva="false" titulo2_cursiva="false" titulo3_cursiva="false" texto1_cursiva="false" texto2_cursiva="false" texto3_cursiva="false" pie_cursiva="false" cabecera_subrayado="false" tituloP_subrayado="false" titulo1_subrayado="false" titulo2_subrayado="false" titulo3_subrayado="false" texto1_subrayado="false" texto2_subrayado="false" texto3_subrayado="false" pie_subrayado="false" cabecera_bullet="false" tituloP_bullet="false" titulo1_bullet="false" titulo2_bullet="false" titulo3_bullet="false" texto1_bullet="false" texto2_bullet="false" texto3_bullet="false" pie_bullet="false" profundidad="9" transparencia="1" cY="0" cX="0"/>
+            </AREA>
+            <AREA tipo="2" pathfondo="">
+            </AREA>
+            <AREA tipo="3" pathfondo="">
+            </AREA>
+            <AREA tipo="4" pathfondo="">
+            </AREA>
+        </PISO>
+        <PISO id="3" showPosition="3" nombre="planta 3" descripcion="Planta Caballeros\nRopa infantil\nDeportes\nBricolaje\nMenaje del hogar\nDeclaración de la renta\nDeclaración de la renta\nDeclaración de la renta\nDeclaración de la renta" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID="">
+                <ELEMENTO alto="0.235" ancho="0.5" tipo="imagen" ID="4" profundidad="1" transparencia="1" cY="0.04875" cX="0" path="img1.jpg"/>
+                <ELEMENTO alto="0.235" ancho="0.5" tipo="imagen" ID="4" profundidad="2" transparencia="1" cY="0.4875" cX="0" path="img2.jpg"/>
+            </AREA>
+            <AREA tipo="2" pathfondo=""></AREA>
+            <AREA tipo="3" pathfondo="">
+                <ELEMENTO alto="0.235" ancho="0.5" tipo="imagen" ID="4" profundidad="3" transparencia="1" cY="0.04875" cX="0" path="img1.jpg"/>
+            </AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+        <PISO id="4" showPosition="4" nombre="planta 4" descripcion="Planta Señoras\nLenceríaPlanta Señoras\nLenceríaPlanta Señoras\nLenceríaPlanta Señoras\nLenceríaPlanta Señoras\nLenceríaPlanta Señoras\nLenceríaPlanta Señoras\nLencería" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID=""></AREA>
+            <AREA tipo="2" pathfondo=""></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+       <!-- <PISO id="5" showPosition="5" nombre="planta 5" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID=""></AREA>
+            <AREA tipo="2" pathfondo=""></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+        <PISO id="6" showPosition="6" nombre="planta 6" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID=""></AREA>
+            <AREA tipo="2" pathfondo=""></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+        <PISO id="7" showPosition="7" nombre="planta 7" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID=""></AREA>
+            <AREA tipo="2" pathfondo=""></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+        <PISO id="8" showPosition="8" nombre="planta 8" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID=""></AREA>
+            <AREA tipo="2" pathfondo=""></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+        <PISO id="9" showPosition="9" nombre="planta 9" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID=""></AREA>
+            <AREA tipo="2" pathfondo=""></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+        <PISO id="10" showPosition="10" nombre="planta 10" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID=""></AREA>
+            <AREA tipo="2" pathfondo=""></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>
+        <PISO id="11" showPosition="11" nombre="planta 11" descripcion="Planta Señoras\nLencería" aditional_info="" showDirectory="true" >
+            <AREA tipo="1" pathfondo="" ID=""></AREA>
+            <AREA tipo="2" pathfondo=""></AREA>
+            <AREA tipo="3" pathfondo=""></AREA>
+            <AREA tipo="4" pathfondo=""></AREA>
+        </PISO>  -->
+    </REPOSO>
+
+</VERSION>

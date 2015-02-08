@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding = "UTF-8"?><VERSION nombre="" creado="" ultima_modificacion="" ><PLANTILLA id="0" nombre="orona_default" fuente="Verdana" size="19" color_textos="9944589" color_bordes="9944589" color_fondo="16777215" color_directorio_sup="9944589" color_directorio_inf="6250335" color_directorio_texto="6250335" velocidad="6" pisos_pagina="10"  estilo_directorio="moderno"  /><SUBIDA>
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="0.09" ancho="0.8453333333333334" tipo="rss" estilo="estilo1" tiempo_transicion="30" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="16777215" alpha_superior="1" color_inferior="11119017" alpha_inferior="1" color_titulos="0" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="14" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="true" cursiva_titulo="false" cursiva_texto="true" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="1" transparencia="1" cY="0.53625" cX="0.12" path="controlRSS_estilo1Player_v2.swf"/>
+    <ELEMENTO alto="0.10125" ancho="0.9573333333333334" tipo="rss" estilo="estilo1" tiempo_transicion="10" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="2" transparencia="1" cY="0.24" cX="0.037333333333333336" path="controlRSS_estilo1Player_v2.swf"/>
+    <ELEMENTO alto="0.1" ancho="0.9413333333333334" tipo="rss" estilo="estilo3" tiempo_transicion="40" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="3" transparencia="1" cY="0.68875" cX="0.048" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.08625" ancho="0.8106666666666666" tipo="rss" estilo="estilo2" tiempo_transicion="5" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="0" alpha_superior="1" color_inferior="0" alpha_inferior="1" color_titulos="16777215" color_textos="10206326" fuente_titulos="Arial" fuente_textos="Trebuchet MS" size_titulos="15" size_textos="10" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="4" transparencia="1" cY="0.3825" cX="0.104" path="controlRSS_estilo2Player_v2.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></SUBIDA><BAJADA>
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1.008" tipo="pasafotos" ID="247,258,273,266,256" url_imagenes="Imagen Defecto (1).jpg,AF_ORONA_IDEO_PMS_POS.jpg,Orona verde.PNG,OR4892_URBAN MOBILITY_CLERMONTFERRAND_FRANCE.jpg,Imagen Defecto (2).jpg" tiempo_trans="5000" vel_trans="1" sentido="Horizontal" direccion="toIzda" efecto="easeOutBounce" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+    <ELEMENTO alto="0.29625" ancho="0.2986666666666667" tipo="video" ID="2" bucle="true" profundidad="2" transparencia="1" cY="0.68375" cX="0.034666666666666665" path="bajando_encoded.mp4"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></BAJADA><REPOSO>
+<PISO id="0" showPosition="0" nombre="Piso 0" descripcion="Piscina:
+
+Disfrute de su tiempo tomando un baño en nuestras relajantes piscinas de agua marina. 
+
+
+
+sdasdssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="BAJANDO_ECOVERDE_01_color2.jpg" ID="239">
+    <ELEMENTO alto="0.225" ancho="0.3466666666666667" tipo="tiempo" dia="Hoy" ciudad="SPXX0087" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0.06125" cX="0.6533333333333333" path="tiempoAS3_vertical.swf"/>
+    <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="2" transparencia="1" cY="0.0375" cX="0.09866666666666667" path="ticker.swf"/>
+    <ELEMENTO alto="0.0925" ancho="0.872" tipo="rss" estilo="estilo1" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="0" color_inferior="6257920" alpha_inferior="0.2" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="true" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="3" transparencia="1" cY="0.4875" cX="0.07466666666666667" path="controlRSS_estilo1Player_v2.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.1509433962264151" ancho="0.9155555555555556" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.8075471698113208" cX="0.022222222222222223" path="ticker.swf"/>
+    <ELEMENTO alto="0.720754716981132" ancho="0.6133333333333333" tipo="tiempo" dia="Hoy" ciudad="SPXX0087" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.14339622641509434" cX="0.19555555555555557" path="tiempoAS3_vertical.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1" tipo="pasafotos" ID="272,273,304" url_imagenes="Torre Aundi.PNG,Orona verde.PNG,Ciudad de ORONA.jpg" tiempo_trans="5000" vel_trans="1" sentido="Horizontal" direccion="toIzda" efecto="easeOutSine" profundidad="1" transparencia="1" cY="0" cX="0" path="pasafotos_VDAP.swf"/>
+  </AREA>
+</PISO>
+<PISO id="1" showPosition="1" nombre="Piso 1" descripcion="Piscina:
+
+Disfrute de su tiempo tomando un baño en nuestras relajantes piscinas de agua marina. 
+
+
+
+sdasdssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="Imagen Defecto (9).jpg" ID="248">
+    <ELEMENTO alto="0.09" ancho="0.8453333333333334" tipo="rss" estilo="estilo1" tiempo_transicion="30" velocidad="30" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="16777215" alpha_superior="1" color_inferior="11119017" alpha_inferior="1" color_titulos="0" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="14" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="true" cursiva_titulo="false" cursiva_texto="true" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="1" transparencia="1" cY="0.53625" cX="0.12" path="controlRSS_estilo1Player_v2.swf"/>
+        <ELEMENTO alto="0.10125" ancho="0.9573333333333334" tipo="rss" estilo="estilo1" tiempo_transicion="10" velocidad="30" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="2" transparencia="1" cY="0.24" cX="0.037333333333333336" path="controlRSS_estilo1Player_v2.swf"/>
+        <ELEMENTO alto="0.1" ancho="0.9413333333333334" tipo="rss" estilo="estilo3" tiempo_transicion="40" velocidad="30" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="3" transparencia="1" cY="0.68875" cX="0.048" path="controlRSS_estilo3Player_v2.swf"/>
+        <ELEMENTO alto="0.08625" ancho="0.8106666666666666" tipo="rss" estilo="estilo2" tiempo_transicion="5" velocidad="30" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="0" alpha_superior="1" color_inferior="0" alpha_inferior="1" color_titulos="16777215" color_textos="10206326" fuente_titulos="Arial" fuente_textos="Trebuchet MS" size_titulos="15" size_textos="10" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="4" transparencia="1" cY="0.3825" cX="0.104" path="controlRSS_estilo2Player_v2.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="1.381132075471698" ancho="1.6755555555555555" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="simple" posicion_textos="null" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="1.230188679245283" cX="0.09777777777777778" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.18867924528301888" ancho="0.7111111111111111" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="6250335" alpha_numeros="1" color_mes="16777215" color_dia="16777215" color_numDia="16777215" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="2" transparencia="1" cY="0.2830188679245283" cX="0.09777777777777778" path="reloj_digital_v2.swf"/>
+    <ELEMENTO tipo="texto" alto="0.569811320754717" ancho="1.48" profundidad="3" transparencia="1" cY="2.449056603773585" cX="0.09777777777777778" path="ninguno">
+      <P ALIGN="CENTER">
+        <FONT FACE="Verdana" SIZE="20" COLOR="#5F5F5F" LETTERSPACING="0" KERNING="0">
+          <B>Miercoles</B>
+        </FONT>
+      </P>
+      <P ALIGN="LEFT">
+        <FONT FACE="Times New Roman" SIZE="12" COLOR="#000000" LETTERSPACING="0" KERNING="0"/>
+      </P>
+    </ELEMENTO>
+  </AREA>
+
+<AREA tipo="4" pathfondo="Orona verde.PNG" ID="273">
+    <ELEMENTO alto="0.5882352941176471" ancho="0.4444444444444444" tipo="reloj" tipo_reloj="analog" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="0" alpha_numeros="1" color_mes="13421772" color_dia="13421772" color_numDia="10066329" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.21764705882352942" cX="0.04" path="reloj_analog_v2.swf"/>
+    <ELEMENTO alto="0.1826470588235294" ancho="0.43555555555555553" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="0" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="16777215" alpha_numeros="1" color_mes="13421772" color_dia="13421772" color_numDia="10066329" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="2" transparencia="1" cY="0.2529411764705882" cX="0.49333333333333335" path="reloj_digital_v2.swf"/>
+    <ELEMENTO alto="0.1826470588235294" ancho="0.43555555555555553" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="0" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="16777215" alpha_numeros="1" color_mes="13421772" color_dia="13421772" color_numDia="10066329" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="3" transparencia="1" cY="0.5705882352941176" cX="0.4888888888888889" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO>
+<PISO id="2" showPosition="2" nombre="Piso 2" descripcion="Piscina:
+
+Disfrute de su tiempo tomando un baño en nuestras relajantes piscinas de agua marina. 
+
+
+
+sdasdssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA>
+</PISO>
+<PISO id="3" showPosition="3" nombre="Piso 3" descripcion="" aditional_info="" showDirectory="true" >
+    <AREA tipo="1" pathfondo="" ID="">
+        <ELEMENTO alto="0.1975" ancho="0.304" tipo="tiempo" dia="Hoy" ciudad="SPXX0087" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0.03625" cX="0.09066666666666667" path="tiempoAS3_vertical.swf"/>
+        <ELEMENTO alto="0.225" ancho="0.3466666666666667" tipo="tiempo" dia="Hoy" ciudad="SPXX0087" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.03625" cX="0.38666666666666666" path="tiempoAS3_vertical.swf"/>
+        <ELEMENTO alto="0.13875" ancho="0.408" tipo="tiempo" dia="Mañana" ciudad="SPXX0087" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="mm/dd" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.255" cX="0.07733333333333334" path="tiempoAS3_vertical.swf"/>
+        <ELEMENTO alto="0.21625" ancho="0.576" tipo="tiempo" dia="Hoy" ciudad="SPXX0087" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="4" transparencia="1" cY="0.23375" cX="0.424" path="tiempoAS3_horizontal.swf"/>
+        <ELEMENTO alto="0.225" ancho="0.3466666666666667" tipo="tiempo" dia="Hoy" ciudad="SPXX0087" pais="España" estilo="simple" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="5" transparencia="1" cY="0.4025" cX="0.08" path="tiempoAS3_vertical.swf"/>
+        <ELEMENTO alto="0.21625" ancho="0.576" tipo="tiempo" dia="Hoy" ciudad="SPXX0087" pais="España" estilo="simple" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="6" transparencia="1" cY="0.40375" cX="0.424" path="tiempoAS3_horizontal.swf"/>
+        <ELEMENTO alto="0.225" ancho="0.3466666666666667" tipo="tiempo" dia="Hoy" ciudad="SPXX0087" pais="España" estilo="clasico" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="7" transparencia="1" cY="0.5875" cX="0.10666666666666667" path="tiempoAS3_vertical.swf"/>
+        <ELEMENTO alto="0.21625" ancho="0.632" tipo="tiempo" dia="Hoy" ciudad="SPXX0087" pais="España" estilo="clasico" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="8" transparencia="1" cY="0.62375" cX="0.368" path="tiempoAS3_horizontal.swf"/>
+        <ELEMENTO alto="0.16125" ancho="0.42933333333333334" tipo="tiempo" dia="Siguiente" ciudad="SPXX0197" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="9" transparencia="1" cY="0.78" cX="0.06666666666666667" path="tiempoAS3_horizontal.swf"/>
+        <ELEMENTO alto="0.225" ancho="0.3466666666666667" tipo="tiempo" dia="Hoy" ciudad="GMXX0024" pais="Alemania" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="10" transparencia="1" cY="0.775" cX="0.568" path="tiempoAS3_vertical.swf"/>
+      </AREA>
+    <AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+    <AREA tipo="3" pathfondo="" ID="">
+        <ELEMENTO alto="0.32704402514716985" ancho="0.5333333333333333" tipo="tiempo" dia="Hoy" ciudad="SPXX0087" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="MM-DD-YY" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0" cX="0.06666666666666667" path="tiempoAS3_horizontal.swf"/>
+        <ELEMENTO alto="0.32704402514716985" ancho="0.5333333333333333" tipo="tiempo" dia="Mañana" ciudad="SPXX0087" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.2641509433962264" cX="0.06666666666666667" path="tiempoAS3_horizontal.swf"/>
+        <ELEMENTO alto="0.32704402514716985" ancho="0.5333333333333333" tipo="tiempo" dia="Pasado" ciudad="SPXX0087" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="YY-MM-DD" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5283018867924528" cX="0.06666666666666667" path="tiempoAS3_horizontal.swf"/>
+      </AREA>
+
+    <AREA tipo="4" pathfondo=""></AREA>
+</PISO>
+<PISO id="4" showPosition="4" nombre="Piso 4" descripcion="Piscina:
+
+Disfrute de su tiempo tomando un baño en nuestras relajantes piscinas de agua marina. 
+
+
+
+sdasdssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="BAJANDO_ECOVERDE_01_color2.jpg" ID="239">
+    <ELEMENTO alto="0.225" ancho="0.3466666666666667" tipo="tiempo" dia="Hoy" ciudad="SPXX0087" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="6118749" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="6118749" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0.06125" cX="0.6533333333333333" path="tiempoAS3_vertical.swf"/>
+    <ELEMENTO alto="0.05" ancho="0.5493333333333333" tipo="ticker" fuente="Arial" size="30" color="0" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="2" transparencia="1" cY="0.0375" cX="0.09866666666666667" path="ticker.swf"/>
+    <ELEMENTO alto="0.0925" ancho="0.872" tipo="rss" estilo="estilo1" tiempo_transicion="15" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="0" color_inferior="6257920" alpha_inferior="0.2" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="true" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="3" transparencia="1" cY="0.4875" cX="0.07466666666666667" path="controlRSS_estilo1Player_v2.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO>
+<PISO id="5" showPosition="5" nombre="Piso 5" descripcion="Piscina:
+
+Disfrute de su tiempo tomando un baño en nuestras relajantes piscinas de agua marina. 
+
+
+
+sdasdssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="Orona verde.PNG" ID="273">
+    <ELEMENTO alto="0.15" ancho="0.5706666666666667" tipo="video" ID="1" bucle="true" profundidad="1" transparencia="0.5" cY="0.03875" cX="0.04533333333333334" path="Orona-g3a_encoded.mp4"/>
+    <ELEMENTO alto="0.09" ancho="0.8453333333333334" tipo="rss" estilo="estilo1" tiempo_transicion="30" velocidad="40" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="16777215" alpha_superior="1" color_inferior="11119017" alpha_inferior="1" color_titulos="0" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="14" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="true" cursiva_titulo="false" cursiva_texto="true" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="1" transparencia="1" cY="0.53625" cX="0.12" path="controlRSS_estilo1Player_v2.swf"/>
+        <ELEMENTO alto="0.10125" ancho="0.9573333333333334" tipo="rss" estilo="estilo1" tiempo_transicion="10" velocidad="40" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="2" transparencia="1" cY="0.24" cX="0.037333333333333336" path="controlRSS_estilo1Player_v2.swf"/>
+        <ELEMENTO alto="0.1" ancho="0.9413333333333334" tipo="rss" estilo="estilo3" tiempo_transicion="40" velocidad="40" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="3" transparencia="1" cY="0.68875" cX="0.048" path="controlRSS_estilo3Player_v2.swf"/>
+        <ELEMENTO alto="0.08625" ancho="0.8106666666666666" tipo="rss" estilo="estilo2" tiempo_transicion="5" velocidad="40" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="0" alpha_superior="1" color_inferior="0" alpha_inferior="1" color_titulos="16777215" color_textos="10206326" fuente_titulos="Arial" fuente_textos="Trebuchet MS" size_titulos="15" size_textos="10" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="4" transparencia="1" cY="0.3825" cX="0.104" path="controlRSS_estilo2Player_v2.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.5735849056603773" ancho="0.8755555555555555" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Derecha" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="16777164" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="16777164" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0" cX="0.07111111111111111" path="tiempoAS3_horizontal.swf"/>
+    <ELEMENTO alto="0.49433962264150944" ancho="0.4222222222222222" tipo="tiempo" dia="Mañana" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="13434828" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="10092492" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="2" transparencia="1" cY="0.5018867924528302" cX="0.08444444444444445" path="tiempoAS3_vertical.swf"/>
+    <ELEMENTO alto="0.4981132075471698" ancho="0.4222222222222222" tipo="tiempo" dia="Pasado" ciudad="SPXX0191" pais="España" estilo="cartoon" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Arial" fecha_color="13434828" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Arial" temp_color="13434828" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="3" transparencia="1" cY="0.5018867924528302" cX="0.47555555555555556" path="tiempoAS3_vertical.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="Torre Aundi.PNG" ID="272">
+    <ELEMENTO alto="0.18823529411764706" ancho="0.4444444444444444" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="0" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="16777215" alpha_numeros="1" color_mes="13421772" color_dia="13421772" color_numDia="10066329" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0" cX="0" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO>
+<PISO id="6" showPosition="6" nombre="Piso 6" descripcion="Piscina:
+
+Disfrute de su tiempo tomando un baño en nuestras relajantes piscinas de agua marina. 
+
+
+
+sdasdssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo="" ID="">
+    <ELEMENTO alto="0.09" ancho="0.8453333333333334" tipo="rss" estilo="estilo1" tiempo_transicion="30" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="16777215" alpha_superior="1" color_inferior="11119017" alpha_inferior="1" color_titulos="0" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="14" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="true" cursiva_titulo="false" cursiva_texto="true" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="1" transparencia="1" cY="0.53625" cX="0.12" path="controlRSS_estilo1Player_v2.swf"/>
+    <ELEMENTO alto="0.10125" ancho="0.9573333333333334" tipo="rss" estilo="estilo1" tiempo_transicion="10" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="2" transparencia="1" cY="0.24" cX="0.037333333333333336" path="controlRSS_estilo1Player_v2.swf"/>
+    <ELEMENTO alto="0.1" ancho="0.9413333333333334" tipo="rss" estilo="estilo3" tiempo_transicion="40" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="17766" alpha_superior="1" color_inferior="6257920" alpha_inferior="1" color_titulos="16777215" color_textos="16777215" fuente_titulos="Times New Roman" fuente_textos="Arial" size_titulos="18" size_textos="12" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="3" transparencia="1" cY="0.68875" cX="0.048" path="controlRSS_estilo3Player_v2.swf"/>
+    <ELEMENTO alto="0.08625" ancho="0.8106666666666666" tipo="rss" estilo="estilo2" tiempo_transicion="5" velocidad="100" titulo_activo="false" velocidad_titulo="12" imagen_visible="true" color_superior="0" alpha_superior="1" color_inferior="0" alpha_inferior="1" color_titulos="16777215" color_textos="10206326" fuente_titulos="Arial" fuente_textos="Trebuchet MS" size_titulos="15" size_textos="10" align_titulos="left" align_textos="left" negrita_titulo="false" negrita_texto="false" cursiva_titulo="false" cursiva_texto="false" subrayado_titulo="false" subrayado_texto="false" rss_url="http://feeds.bbci.co.uk/news/world/rss.xml" profundidad="4" transparencia="1" cY="0.3825" cX="0.104" path="controlRSS_estilo2Player_v2.swf"/>
+  </AREA>
+
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="0.7782583454521032" ancho="0.6619999999999999" tipo="tiempo" dia="Hoy" ciudad="SPXX0191" pais="España" estilo="simple" posicion_textos="Arriba" fecha_formato="dd/mm" fecha_fuente="Verdana" fecha_color="0" fecha_negrita="true" fecha_cursiva="false" fecha_subrayado="false" temp_fuente="Verdana" temp_color="9944589" temp_negrita="true" temp_cursiva="false" temp_subrayado="false" profundidad="1" transparencia="1" cY="0.1509433962264151" cX="0.1288888888888889" path="tiempoAS3_vertical.swf"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.23529411764705882" ancho="0.9155555555555556" tipo="ticker" fuente="Arial" size="30" color="52224" alineacion="center" negrita="false" cursiva="false" subrayado="false" velocidad="5" profundidad="1" transparencia="1" cY="0.38823529411764707" cX="0.0044444444444444444" path="ticker.swf"/>
+  </AREA>
+</PISO>
+<PISO id="7" showPosition="7" nombre="Piso 7" descripcion="Piscina:
+
+Disfrute de su tiempo tomando un baño en nuestras relajantes piscinas de agua marina. 
+
+
+
+sdasdssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO>
+<PISO id="8" showPosition="8" nombre="Piso 8" descripcion="Restaurante Juan Mari Arzak
+
+Disfruta de un agradable menú degustación con vistas al empire state building.
+
+
+fdfsdf
+dfdfdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO>
+<PISO id="9" showPosition="9" nombre="Piso 9" descripcion="Piscina:
+
+Disfrute de su tiempo tomando un baño en nuestras relajantes piscinas de agua marina. 
+
+
+
+sdasdssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo=""></AREA>
+<AREA tipo="4" pathfondo=""></AREA></PISO></REPOSO></VERSION>

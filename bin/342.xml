@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<VERSION nombre="" creado="" ultima_modificacion="" >
+    <PLANTILLA id="73" nombre="orona_default" fuente="Verdana" size="19" color_textos="9944589" color_bordes="9944589" color_fondo="16777215" color_directorio_sup="9944589" color_directorio_inf="6250335" color_directorio_texto="6250335" velocidad="6" pisos_pagina="6"  estilo_directorio="default"  /><SUBIDA>
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36058823529411765" ancho="0.8533333333333334" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.07111111111111111" path="reloj_digital_v2.swf"/>
+  </AREA>
+</SUBIDA><BAJADA>
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36058823529411765" ancho="0.8533333333333334" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.07111111111111111" path="reloj_digital_v2.swf"/>
+  </AREA>
+</BAJADA><REPOSO>
+<PISO id="0" showPosition="-2" nombre="Parking" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36058823529411765" ancho="0.8533333333333334" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.07111111111111111" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO>
+<PISO id="1" showPosition="-1" nombre="Reception" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36058823529411765" ancho="0.8533333333333334" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.07111111111111111" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO>
+<PISO id="2" showPosition="E" nombre="Mezzanine" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36058823529411765" ancho="0.8533333333333334" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.07111111111111111" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO>
+<PISO id="3" showPosition="1" nombre="EIC & Services" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36058823529411765" ancho="0.8533333333333334" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.07111111111111111" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO>
+<PISO id="4" showPosition="2" nombre="Piso 2" descripcion="asdadas\nadd\ndasada\ndsadasd\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36058823529411765" ancho="0.8533333333333334" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.07111111111111111" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO>
+<PISO id="5" showPosition="3" nombre="Piso 3" descripcion="\n" aditional_info="" showDirectory="true" >
+<AREA tipo="1" pathfondo=""></AREA>
+<AREA tipo="2" pathfondo=""><ELEMENTO alto="1" ancho="1" tipo="swf" profundidad="1" transparencia="1" cY="0" cX="0" path="area2.swf"/></AREA>
+<AREA tipo="3" pathfondo="" ID="">
+    <ELEMENTO alto="1" ancho="1" tipo="imagen" ID="1" profundidad="1" transparencia="1" cY="0" cX="0" path="orona_alta_color_212x124_VDAP.jpg"/>
+  </AREA>
+
+<AREA tipo="4" pathfondo="" ID="">
+    <ELEMENTO alto="0.36058823529411765" ancho="0.8533333333333334" tipo="reloj" tipo_reloj="digital" color_agujas="0" alpha_agujas="1" color_marcas="0" alpha_marcas="1" color_sombra="13027014" alpha_sombra="0.28" color_fondo="16777215" alpha_fondo="1" color_marco="0" alpha_marco="1" color_remarco="13027014" alpha_remarco="0.28" color_numeros="9944589" alpha_numeros="1" color_mes="9944589" color_dia="9944589" color_numDia="9944589" alpha_mes="1" alpha_dia="1" alpha_numDia="1" profundidad="1" transparencia="1" cY="0.28823529411764703" cX="0.07111111111111111" path="reloj_digital_v2.swf"/>
+  </AREA>
+</PISO></REPOSO></VERSION>
